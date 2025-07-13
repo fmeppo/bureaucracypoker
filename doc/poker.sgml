@@ -1,5 +1,5 @@
 <!-- -*- sgml -*- -->
-<!DOCTYPE set PUBLIC "-//OASIS//DTD DocBook V4.2//EN" [
+<!DOCTYPE set PUBLIC "-//OASIS//DTD DocBook V4.4//EN" [
 
 <!ENTITY corbp "Complete Official Rules for Bureaucracy Poker">
 <!ENTITY bp "Bureaucracy Poker">
@@ -36,7 +36,8 @@
     <title>The Full and Complete Set of Rules for All Bureaucracy Poker Games</title>
 
     <setinfo>
-    <corpauthor>The National Bureaucracy Poker Institute</corpauthor>
+        <corpauthor>The National Bureaucracy Poker Institute</corpauthor>
+        <edition>Third</edition>
     </setinfo>
 
 &bpoker;
