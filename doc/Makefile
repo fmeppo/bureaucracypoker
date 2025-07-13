@@ -8,9 +8,9 @@ TOP_SECTS=bpoker.sgml fpoker.sgml details.sgml colophon.sgml
 B_SECTS=preface.sgml b_chap1.sgml b_chap2.sgml b_chap3.sgml b_chap4.sgml \
 	b_glossary.sgml
 F_SECTS=f_chap1.sgml f_chap2.sgml
+RM=rm
 SECTS=$(TOP_SECTS) $(B_SECTS) $(F_SECTS)
 SRC=$(MAIN) $(SECTS) $(DSSSL)
-RM=rm
 
 all: $(DOC) $(DOC).pdf $(DOC).ps
 
