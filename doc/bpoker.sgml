@@ -1,0 +1,24 @@
+<!-- -*- sgml -*- -->
+
+<book id="bpoker">
+    <bookinfo>
+	<title>The Complete and Often Concise Official Rules for Bureaucracy Poker</title>
+	<subtitle>Better Chaos Through Bureaucracy</subtitle>
+
+	&preambledetails;
+
+    </bookinfo>
+
+&preface;
+&bchap1;
+&bchap2;
+&bchap3;
+&bchap4;
+
+&bglossary;
+
+&colophon;
+<index>
+</index>
+
+</book>

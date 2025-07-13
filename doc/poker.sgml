@@ -1,0 +1,45 @@
+<!-- -*- sgml -*- -->
+<!DOCTYPE set PUBLIC "-//OASIS//DTD DocBook V4.2//EN" [
+
+<!ENTITY corbp "Complete Official Rules for Bureaucracy Poker">
+<!ENTITY bp "Bureaucracy Poker">
+<!ENTITY nbpi "National Bureaucracy Poker Institute">
+
+<!ENTITY clubs "C">
+<!ENTITY diamonds "D">
+<!ENTITY spades "S">
+<!ENTITY hearts "H">
+
+<!ENTITY cont "((C))">
+<!ENTITY discard "((D))">
+<!ENTITY trig-start "((T:">
+<!ENTITY trig-end "))">
+
+<!ENTITY bpoker SYSTEM "bpoker.sgml">
+<!ENTITY fpoker SYSTEM "fpoker.sgml">
+<!ENTITY preambledetails SYSTEM "details.sgml">
+<!ENTITY preface SYSTEM "preface.sgml">
+<!ENTITY bchap1 SYSTEM "b_chap1.sgml">
+<!ENTITY bchap2 SYSTEM "b_chap2.sgml">
+<!ENTITY bchap3 SYSTEM "b_chap3.sgml">
+<!ENTITY bchap4 SYSTEM "b_chap4.sgml">
+<!ENTITY bglossary SYSTEM "b_glossary.sgml">
+<!ENTITY colophon SYSTEM "colophon.sgml">
+
+<!ENTITY fchap1 SYSTEM "f_chap1.sgml">
+<!ENTITY fchap2 SYSTEM "f_chap2.sgml">
+
+]>
+
+
+<set>
+    <title>The Full and Complete Set of Rules for All Bureaucracy Poker Games</title>
+
+    <setinfo>
+    <corpauthor>The National Bureaucracy Poker Institute</corpauthor>
+    </setinfo>
+
+&bpoker;
+&fpoker;
+
+</set>

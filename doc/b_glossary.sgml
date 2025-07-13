@@ -1,0 +1,517 @@
+<glossary>
+<title>Glossary</title>
+    <para>
+    Okay, for relatively quick reference, here are many of the terms of the game
+    defined in alphabetical order.  Player B is seated next to Player A in the
+    direction of play.
+    </para>
+
+<glossdiv><title>B</title>
+    <glossentry id="beginning-of-a-turn">
+    <glossterm>Beginning of a Turn</glossterm>
+    <glossdef>
+	<para>
+	The beginning of a turn is the time at which the player is able to
+	decide whether to keep or to scrap his hand.  The beginning of Player
+	B's turn comes after Player A ends his turn and all players finish
+	resolving all effects from 5s, 6s, and cards-to-be-played (unless
+	Player A regains the turn or Player B is skipped).
+	</para>
+	<glossseealso otherterm="cards-to-be-played">
+    </glossdef>
+    </glossentry>
+
+    <glossentry id="breaking-a-tile">
+    <glossterm>Breaking a Tile</glossterm>
+    <glossdef>
+	<para>
+	In certain cases, a tile must be broken.  This means that the cards are
+	no longer displayed as a tile.  Each counts as an individual card.
+	When the tile is broken, immediate effects of the cards that were in
+	the tile are ignored.  Continuous effects of these cards take effect
+	at this time, though (unless, of course, the cards become no-effect).
+	</para>
+	<glossseealso otherterm="tile">
+	<glossseealso otherterm="no-effect-cards">
+    </glossdef>
+    </glossentry>
+</glossdiv>
+
+<glossdiv><title>C</title>
+    <glossentry id="cards-in-play">
+    <glossterm>Cards in Play</glossterm>
+    <glossdef>
+	<para>
+	The cards a player has played or had played onto his table.  Continuous
+	effects of these cards are considered at all times unless the cards
+	are no-effect.
+	</para>
+	<glossseealso otherterm="no-effect-cards">
+    </glossdef>
+    </glossentry>
+
+    <glossentry id="cards-to-be-played">
+    <glossterm>Cards-to-be-Played</glossterm>
+    <glossdef>
+	<para>
+	Certain cards result in a player having cards-to-be-played.  They must
+	be resolved immediately, in whatever order the player chooses.  The card
+	played on a 6 must come from the viewing hand, not cards-to-be-played.
+	The card played on a 5 may come from either the viewing hand or the
+	cards-to-be-played.  If two players have cards-to-be-played, the one
+	who got his cards-to-be-played most recently plays his first.  Having
+	cards-to-be-played does not mean it is your turn.
+	</para>
+    </glossdef>
+    </glossentry>
+
+    <glossentry id="continuous-effect">
+    <glossterm>Continuous Effect</glossterm>
+    <glossdef>
+	<para>
+	A special rule effect that is constantly being considered as long as the
+	card causing it is in play and is not a no-effect card.  The effects of
+	a 4 are continuous effects, for example.
+	</para>
+	<glossseealso otherterm="no-effect-cards">
+    </glossdef>
+    </glossentry>
+
+    <glossentry id="contracts">
+    <glossterm>Contracts</glossterm>
+    <glossdef>
+	<para>
+	A player can make a contract to buy and sell cards in play, but this
+	should be kept to a minimum since it is almost always a form of teaming.
+	Cards exchanged in this way are not played onto the recipient's table.
+	Immediate effects of the card are ignored, although unless the card
+	is no-effect its continuous effects do take effect.
+	</para>
+	<glossseealso otherterm="no-effect-cards">
+	<glossseealso otherterm="continuous-effect">
+    </glossdef>
+    </glossentry>
+
+    <glossentry id="control">
+    <glossterm>Control</glossterm>
+    <glossdef>
+	<para>
+	A control situation occurs when you use a 6 to force a 10&diamonds; on
+	another player.  See section 2.11 for details.
+	</para>
+    </glossdef>
+    </glossentry>
+
+    <glossentry id="correct-number-of-cards-in-viewing-hand">
+    <glossterm>Correct Number of Cards in Viewing Hand</glossterm>
+    <glossdef>
+	<para>
+	The number of cards that you must maintain in your viewing hand.  If
+	you have too many, discard.  If you have too few, draw from your stash.
+	Unless it has been changed by Part II rules, the correct number is 7.
+	</para>
+    </glossdef>
+    </glossentry>
+</glossdiv>
+
+<glossdiv><title>D</title>
+    <glossentry id="deck">
+    <glossterm>Deck</glossterm>
+    <glossdef>
+	<para>
+	The deck consists of 52-card poker decks plus Jokers.  Remove all but
+	two (2) of the 10&clubs; and all but one (1) of the 9&diamonds;.  Use
+	at least two (2) poker decks per player.
+	</para>
+    </glossdef>
+    </glossentry>
+
+    <glossentry id="discard-effect">
+    <glossterm>Discard Effect</glossterm>
+    <glossdef>
+	<para>
+	An effect that occurs when you discard a card from your table.
+	</para>
+    </glossdef>
+    </glossentry>
+
+    <glossentry id="discard-pile">
+    <glossterm>Discard Pile</glossterm>
+    <glossdef>
+	<para>
+	The pile of cards that have been discarded.  At the end of the hand,
+	this becomes the pot for the next hand.
+	</para>
+    </glossdef>
+    </glossentry>
+</glossdiv>
+
+<glossdiv><title>E</title>
+    <glossentry id="empire">
+    <glossterm>Empire</glossterm>
+    <glossdef>
+	<para>
+	Sometimes, the number of cards on a table gets really, really, big.
+	When the number of cards on a single player's table is at least twelve
+	(12), that player is said to have an Empire.  Other terms may be
+	defined for tables that get exceptionally, ridiculously large.  The
+	record size for an Empire so far was achieved by Mike Shuey when he
+	played 177 cards in one turn.
+	</para>
+    </glossdef>
+    </glossentry>
+</glossdiv>
+
+<glossdiv><title>F</title>
+    <glossentry id="fee">
+    <glossterm>Fee</glossterm>
+    <glossdef>
+	<para>
+	Any payment of cards may be designated as a fee by the effect that
+	demands the payment, making it subject to cards that modify fees.  No
+	fee may ever be negative.  Players who have resigned from, or lost, the
+	current hand are not subject to fees.
+	</para>
+    </glossdef>
+    </glossentry>
+
+    <glossentry id="fine">
+    <glossterm>Fine</glossterm>
+    <glossdef>
+	<para>
+	If you do something that the group votes is a misdoing (in other words,
+	you do something wrong like breaking a rule or being obnoxious) you
+	must pay a fine.  Fines are not effected by Js or 8s.  They may not be
+	negative.  Anyone who is in the game is subject to fines.
+	</para>
+    </glossdef>
+    </glossentry>
+
+    <glossentry id="five-card-poker-hand">
+    <glossterm>Five-card Poker Hand</glossterm>
+    <glossdef>
+	<para>
+	The cards a player has declared as his five-card poker hand should be
+	displayed on his table in a manner that makes it clear that it is his
+	five card poker hand.  It may contain up to five (5) cards.  If, at the
+	beginning of his turn, a player has the highest five-card poker hand,
+	he wins the hand.  The five-card poker hand is part of the player's
+	cards in play.
+	</para>
+    </glossdef>
+    </glossentry>
+
+    <glossentry id="flush">
+    <glossterm>Flush</glossterm>
+    <glossdef>
+	<para>
+	A hand with five cards of the same suit.  This beats any non-flush hand.
+	</para>
+	<glossseealso otherterm="five-card-poker-hand">
+    </glossdef>
+    </glossentry>
+
+    <glossentry id="forcing-a-card">
+    <glossterm>Forcing a Card</glossterm>
+    <glossdef>
+	<para>
+	Causing a card to be played on another player's table.
+	</para>
+    </glossdef>
+    </glossentry>
+</glossdiv>
+
+<glossdiv><title>G</title>
+    <glossentry id="game">
+    <glossterm>Game</glossterm>
+    <glossdef>
+	<para>
+	A game begins when the splitter splits the cards and ends when no more
+	than two players remain, at which time the player with the most cards
+	wins.  In the highly unlikely event that the remaining players have
+	the same number of cards, the game is a tie.
+	</para>
+    </glossdef>
+    </glossentry>
+</glossdiv>
+
+<glossdiv><title>H</title>
+    <glossentry id="halt">
+    <glossterm>Halt</glossterm>
+    <glossdef>
+	<para>
+	To stop the playing of cards-to-be-played that would further increase
+	the number of cards that the player playing them will play.  This
+	requires that the player who's cards-to-be-played are to be halted
+	has just completed a card effect and has at least 7 cards-to-be-played.
+	The player with the highest 5-card poker hand (not counting the hand
+	of the player whose cards-to-be-played are being played) may halt the
+	cards-to-be-played by putting his five-card poker hand into the pot.
+	Any of the cards-to-be-played in question that would put more cards into
+	cards-to-be-played or allow the person playing them to play more
+	cards are then put onto said player's table with none of their
+	immediate effects occurring.
+	</para>
+	<glossseealso otherterm="cards-to-be-played">
+	<glossseealso otherterm="five-card-poker-hand">
+    </glossdef>
+    </glossentry>
+
+    <glossentry id="hand">
+    <glossterm>Hand</glossterm>
+    <glossdef>
+	<para>
+	A single hand of Bureaucracy Poker ends when a player has the high hand
+	at the beginning of his turn.  That player has won the hand.
+	</para>
+    </glossdef>
+    </glossentry>
+
+    <glossentry id="hand-declaration">
+    <glossterm>Hand Declaration</glossterm>
+    <glossdef>
+	<para>
+	A player may declare his high hand any time that his turn ends or cards
+	are added to or removed from his table.  Only his declared hand counts
+	in determining if he wins.
+	</para>
+    </glossdef>
+    </glossentry>
+
+    <glossentry id="hand-rankings">
+    <glossterm>Hand Rankings</glossterm>
+    <glossdef>
+	<para>
+	see section 1.7
+	</para>
+    </glossdef>
+    </glossentry>
+</glossdiv>
+
+<glossdiv><title>I</title>
+    <glossentry id="immediate-effect">
+    <glossterm>Immediate Effect</glossterm>
+    <glossdef>
+	<para>
+	An effect of a card that occurs only when the card is brought into play.
+	</para>
+    </glossdef>
+    </glossentry>
+</glossdiv>
+
+<glossdiv><title>M</title>
+    <glossentry id="maximum-number-of-cards-on-the-table">
+    <glossterm>Maximum Number of Cards on the Table</glossterm>
+    <glossdef>
+	<para>
+	When you have this number of cards on the table.  Your turn ends.
+	Unless Part II rules affect it, it is five (5).
+	</para>
+    </glossdef>
+    </glossentry>
+
+    <glossentry id="monochromatic">
+    <glossterm>Monochromatic</glossterm>
+    <glossdef>
+	<para>
+	A hand with five cards of the same color.  This always beats a
+	non-monochromatic.  A flush beats a monochromatic, however.
+	</para>
+	<glossseealso otherterm="flush">
+    </glossdef>
+    </glossentry>
+</glossdiv>
+
+<glossdiv><title>N</title>
+    <glossentry id="nbpi">
+    <glossterm>(The) National Bureaucracy Poker Institute</glossterm>
+	<acronym>NBPI</acronym>
+    <glossdef>
+	<para>
+	The NBPI is the organization that created Bureaucracy Poker (or
+	rather, oversaw its evolution).  It currently consists of Mark "Durak"
+	Adelsberger, John "Death" Adelsberger, John "Jelly Roll" Bley, and
+	Mike "The Idiot" Shuey.  The NBPI can be reached by emailing Mark
+	Adelsberger at mea@umr.edu for rules information.
+	</para>
+    </glossdef>
+    </glossentry>
+
+    <glossentry id="no-effect-cards">
+    <glossterm>No-Effect Cards</glossterm>
+    <glossdef>
+	<para>
+	Cards that have no effect and are not affected by most other card
+	effects.  These cards are turned sideways.
+	</para>
+    </glossdef>
+    </glossentry>
+</glossdiv>
+
+<glossdiv><title>P</title>
+    <glossentry id="part-ii-rules">
+    <glossterm>Part II Rules</glossterm>
+    <glossdef>
+	<para>
+	The rules found in Part II of this document; the special card rules.
+	</para>
+    </glossdef>
+    </glossentry>
+
+    <glossentry id="pot">
+    <glossterm>Pot</glossterm>
+    <glossdef>
+	<para>
+	Pronounced with a long "o".
+	</para>
+
+	<para>
+	This is the pile of cards that the winner of the hand takes.
+	</para>
+    </glossdef>
+    </glossentry>
+
+    <glossentry id="protected-cards">
+    <glossterm>Protected Cards</glossterm>
+    <glossdef>
+	<para>
+	Wilds, the 10&diamonds;, and tiles are protected.  Many cards can't
+	effect them.
+	</para>
+	<glossseealso otherterm="tile">
+    </glossdef>
+    </glossentry>
+</glossdiv>
+
+<glossdiv><title>S</title>
+    <glossentry id="scrap">
+    <glossterm>Scrap</glossterm>
+    <glossdef>
+	<para>
+	To put cards on one's table into the pot at the beginning of one's turn.
+	</para>
+	<glossseealso otherterm="pot">
+	<glossseealso otherterm="table">
+    </glossdef>
+    </glossentry>
+
+    <glossentry id="shaft">
+    <glossterm>Shaft</glossterm>
+    <glossdef>
+	<para>
+	To force a card on a player by means of playing a 6.
+	</para>
+    </glossdef>
+    </glossentry>
+
+    <glossentry id="snackage">
+    <glossterm>Snackage</glossterm>
+    <glossdef>
+	<para>
+	Snacks.
+	</para>
+    </glossdef>
+    </glossentry>
+
+    <glossentry id="split">
+    <glossterm>Split</glossterm>
+    <glossdef>
+	<para>
+	The act of dividing the deck into piles for each player's stash.
+	</para>
+	<glossseealso otherterm="deck">
+	<glossseealso otherterm="stash">
+    </glossdef>
+    </glossentry>
+
+    <glossentry id="splitter">
+    <glossterm>Splitter</glossterm>
+    <glossdef>
+	<para>
+	The person who starts the game by splitting the deck.  He also plays
+	first.
+	</para>
+    </glossdef>
+    </glossentry>
+
+    <glossentry id="stash">
+    <glossterm>Stash</glossterm>
+    <glossdef>
+	<para>
+	The pile of cards a player draws from to get his viewing hand.
+	</para>
+    </glossdef>
+    </glossentry>
+</glossdiv>
+
+<glossdiv><title>T</title>
+    <glossentry id="table">
+    <glossterm>Table</glossterm>
+    <glossdef>
+	<para>
+	The part of the playing surface on which a player puts his five-card
+	poker hand, cards in play, and cards-to-be-played is his table.
+	</para>
+    </glossdef>
+    </glossentry>
+
+    <glossentry id="teams">
+    <glossterm>Teams, Teaming</glossterm>
+    <glossdef>
+	<para>
+	A fairly obvious term.  Teaming can take many forms, and is a bad idea.
+	</para>
+    </glossdef>
+    </glossentry>
+
+    <glossentry id="tile">
+    <glossterm>Tile</glossterm>
+    <glossdef>
+	<para>
+	The most common tiles are 5-tiles, although certain card pairs create
+	tiles as well.  The cards in a tile count as one protected card in
+	terms of how most other cards affect them, but each card is counted
+	individually towards the maximum number of cards on the table and in
+	evaluating the five-card poker hand.
+	</para>
+    </glossdef>
+    </glossentry>
+
+    <glossentry id="triggered-effect">
+    <glossterm>Triggered Effect</glossterm>
+    <glossdef>
+	<para>
+	An effect that occurs when a predefined condition (the trigger) is met.
+	When the trigger condition is met, the effect is resolve as though it
+	were an immediate effect of a card that was just played.
+	</para>
+    </glossdef>
+    </glossentry>
+</glossdiv>
+
+<glossdiv><title>V</title>
+    <glossentry id="viewing-hand">
+    <glossterm>Viewing Hand</glossterm>
+    <glossdef>
+	<para>
+	The cards a player has available to play.  They should be kept secret,
+	just like your hand in five-card draw.
+	</para>
+    </glossdef>
+    </glossentry>
+</glossdiv>
+
+<glossdiv><title>W</title>
+    <glossentry id="wild">
+    <glossterm>Wild</glossterm>
+    <glossdef>
+	<para>
+	A wild is a face-down card.  It has value and suit of the choice of the
+	player on whose table it is.  That player can change its value and suit
+	at any time.  The color of a wild corresponds to its suit.
+	</para>
+    </glossdef>
+    </glossentry>
+</glossdiv>
+
+</glossary>

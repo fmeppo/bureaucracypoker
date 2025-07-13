@@ -1,0 +1,15 @@
+<!-- -*- sgml -*- -->
+
+<book id="fpoker">
+<bookinfo>
+<title>The Complete and Often Concise Official Rules for Fractal Poker</title>
+<subtitle>(f_poker)</subtitle>
+
+&preambledetails;
+
+</bookinfo>
+
+&fchap1;
+&fchap2;
+&colophon;
+</book>

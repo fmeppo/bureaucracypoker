@@ -1,0 +1,15 @@
+(passed?) Void the A+A rule in 3-player games?
+Reword the 3C & wild rule?
+Reword "Halt" for clarity of what cards are affected?
+Find more discard effects?
+Develop rule to prevent a player from "scrapping"?
+"Pop turn stack" rule?
+More rules to affect protected cards?
+Vertical tiling?
+Modify or replace 4D rule?
+Work on f_poker
+Better protection for Black- and White-hole pairs?
+(passed?) Minimum viewing-hand size == 1
+What is the state of a card that has been passed due to an in-effect card before
+    ir reverts to its true value?
+Prevent nasty side-effects of cannibalizing

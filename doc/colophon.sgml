@@ -1,0 +1,22 @@
+<colophon>
+<para>
+The first written copy of these rules was written and edited by Mark
+Adlesberger using straight HTML in the fall of 1996.  The final version of
+this copy, dated Nov. 18, 1996, received some handwritten edits, and was
+then lost.
+</para>
+
+<para>
+In December 2005, two printings of the first HTML-based rules set were
+located - including the printing containing the last set of handwritten
+edits.  The electronic version was, unfortunately, long since lost.  This
+began a lengthy transcription and updating process.
+</para>
+
+<para>
+This version of the rules was produced by Mike Shuey, using DocBook DSSSL
+Stylesheets, and was originally prepared with DocBook XML and SGML tools
+from Debian Linux.  This version is currently archived with CVS and is now
+periodically rendered using DocBook XML and SGML tools from Ubuntu Linux.
+</para>
+</colophon>

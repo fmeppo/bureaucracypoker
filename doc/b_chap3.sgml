@@ -1,0 +1,61 @@
+<chapter id="specialrulings">
+<title>Special Rulings</title>
+    <para>
+    This is the definition of special game situations or card combinations.
+    It should be followed when applicable.  Most of these rulings cover either
+    really wierd situations that need special attention or quick-fixes in the
+    game due to contradictions in other rules.  Old rulings that fall under
+    that latter heading may be removed as general game mechanics are updated,
+    and new rulings may be brought into existence as the game evolves.
+    A general measure of how consistent the rules are can be found as an
+    inverse proportion to the length of this chapter.  At some times, there
+    may be no rules in this chapter.  When this is the case, it's a good
+    thing.
+    </para>
+
+    <para>
+    For all rulings in this chapter, Player B is sitting next to Player A
+    such that he is the next in the direction of play, Player C is next to
+    Player B, etc.  Player 1, Player 2, etc. are totally arbitrary players
+    and may be sitting in any order.
+    </para>
+
+<section id="deadlock">
+<title>Deadlock</title>
+
+    <para>
+    If the turn passes all the way around the table with no cards being
+    played (e.e., all players have the maximum number of cards on their
+    tables, two players are tied for the highest 5-card poker hand, and
+    each player in turn chooses to keep his hand), then all players must
+    immediately scrap their hands and play progresses as normal.
+    </para>
+</section>
+
+<section id="buffers">
+<title>Buffers</title>
+
+    <para>
+    During any turn, any player may form a buffer to the pot or to the discard.
+    Placing a card in the buffer counts as playing it on the pile associated
+    with the buffer.  No player may have more than one buffer to each pile.
+    Buffers cannot be formed to any pile other than the pot or the discard.
+    </para>
+
+    <para>
+    A player must flush his buffer (move its contents to the associated pile)
+    if:
+    </para>
+
+    <itemizedlist>
+	<listitem><para>
+	A card effect affects the associated pile in a way other than adding
+	cards to it.
+	</para></listitem>
+
+	<listitem><para>
+	The turn and/or the hand ends.
+	</para></listitem>
+    </itemizedlist>
+</section>
+</chapter>

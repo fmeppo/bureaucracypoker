@@ -1,0 +1,1229 @@
+<chapter id="cardrules">
+<title>Special Card Rules</title>
+
+<section id="preparation">
+<title>Preparation for the Card Rules</title>
+    <para>
+    Please, <emphasis>please, we implore you</emphasis>, read these rules a
+    number of times.  They won't make sense until you do, because the rules
+    for many of the cards refer to the rules for other cards.
+    </para>
+    
+    <para>
+    To pay another player is to give him cards from your stash face down,
+    which he then adds to his stash.  Unless otherwise specified, this paying
+    another player is a fee.  Any fee other than paying another player will
+    specify that it is a fee.
+    </para>
+
+    <para>
+    To pay cards to the pot is to put cards from your stash into the pot.  To
+    pay cards to the discard is to put cards from your stash into the discard.
+    </para>
+
+    <para>
+    We apologize for the K&diamonds;.
+    </para>
+</section>
+
+<section id="specialcardtypes">
+<title>Special Card Types</title>
+    <section id="wilds">
+    <title>Wilds</title>
+	<para>
+	A "wild" is a card that may at any time be given any value (suit and
+	rank) for purposes of calculating 5-card poker hands.  The player on
+	who's table the card is may declare it to have any suit and any rank
+	whenever he declares his 5-card poker hand.  The declared suit and
+	rank affect only the card's value in the 5-card poker hand, not any
+	effects the card might have; a wild has no special effects.
+	</para>
+
+	<para>
+	The fact that a card is wild is marked by its being placed face-down
+	on the player's table.  Such a card is said to "have become" wild and
+	loses all of its original characteristics.  If a wild is "replayed,"
+	it first regains its old properties; turn it face-up and treat the
+	situation as though that card had just been played.
+	</para>
+
+	<para>
+	Wilds are protected cards (see below).
+	</para>
+    </section>
+
+    <section id="tiles">
+    <title>Tiles</title>
+	<para>
+	A "tile" is a set of two or more cards played in such a way as to
+	remain related while on the player's table.  (The most common
+	example is a 5-tile; whenever cards are to be tiled, the effect that
+	causes them to be tiled will give specific information about the
+	tile's effect.)  While cards are tiled, their individual effects are
+	not considered (e.g., a 4&clubs; in a tile doesn't subtract one from
+	the number of cards you may hold in your viewing hand).  A tile is
+	considered one protected card (see Protected Cards below) for
+	purposes of interaction with most other cards.  Replaying a tile
+	causes the effect of the tile, not the individual cards that make it
+	up, to be replayed.  Each card in a tile is counted separately
+	towards the maximum number of cards you may have on your table, and
+	each may independently be added or removed from your declared 5-card
+	poker hand.  If you are forced to cannibalize from your table, you
+	may use each card from the tile separately.  If for this, or any
+	other reason, part of the tile leaves your table, the remainder of
+	the tile is "broken up."
+	</para>
+
+	<para>
+	A tile is marked by the placement of the cards that make it up.  Each
+	card in a tile overlaps the card before it.  Tiles are formed from
+	left to right (the second card in the tile is placed over the right
+	side of the first, and so on).  All cards' values should be visible.
+	This placement is demonstrated in the diagram under "Tile" in the
+	glossary.
+	</para>
+
+	<para>
+	When a tile is broken up, its cards are separated (no longer tiled).
+	No immediate effects of those cards occur, but their continuous effects
+	come into play, and any triggered effects they may have are subject
+	to activation should the trigger conditions be set up (see section
+	2.3 for information about immediate, continuous, and triggered
+	effects).
+	</para>
+    </section>
+
+    <section id="protected">
+    <title>Protected Cards</title>
+	<para>
+	Certain cards are called "protected cards."  Such cards will specify
+	their status as such.  A protected card cannot be affected by any card
+	that doesn't specifically state that it affects protected cards.
+	</para>
+    </section>
+
+    <section id="noeffect">
+    <title>No-effect Cards</title>
+	<para>
+	If a card is brought into play no-effect, its immediate effects do
+	not occur.  While a card is no-effect, any continuous or triggered
+	effects it may have are ignored.  A card that is no-effect cannot
+	be affected by any special card rule of another card unless the
+	special card rule specifically says that it applies to no-effect
+	cards.
+	</para>
+
+	<para>
+	A card is marked as no-effect by placing it sideways on your table.
+	If a no-effect card is replayed, it is no longer no-effect.
+	</para>
+    </section>
+</section>
+
+<section id="effects">
+<title>Types of Effects</title>
+    <section id="immediate">
+    <title>Immediate Effects</title>
+	<para>
+	Any effect that doesn't specify that it is one of the other types of
+	effects is an immediate effect.  Such an effect is resolved as soon as
+	the card that causes it is played.  If the effect cannot be resolved
+	immediately (e.g., a 2&spades; is played and none of your opponents
+	have cards on their tables) it is lost completely; it cannot be
+	called upon later.
+	</para>
+    </section>
+
+    <section id="continuous">
+    <title>Continuous Effects</title>
+	<para>
+	An effect preceded by a &cont; is a continuous effect.  Such an
+	effect is considered as long as the card causing it is in play and
+	not no-effect.  If the card becomes no-effect or leaves play, its
+	effect is immediately terminated.
+	</para>
+    </section>
+
+    <section id="trggered">
+    <title>Triggered Effects</title>
+	<para>
+	An effect preceded by a
+	&trig-start;<emphasis>condition</emphasis>&trig-end; is a
+	triggered effect.  Whenever <emphasis>condition</emphasis> is met,
+	the effect occurs as though it were an immediate effect of a card
+	that was just played.  For example, if an effect is preceded by
+	&trig-start;beginning of any turn&trig-end;, then that effect occurs
+	whenever the beginning of any turn occurs.
+	</para>
+    </section>
+
+    <section id="discard">
+    <title>Discard Effects</title>
+	<para>
+	An effect preceded by &discard; is a discard effect.  Such an effect
+	is used by removing the card from your table and putting it in the
+	discard.  When such an effect is used, it is resolved as though it
+	were an immediate effect of a card that was just played.  The effect
+	will specify when you may use it.  The card must be <emphasis>in
+	play</emphasis> for you to use its effect; you cannot discard the
+	card from your cards-to-be-played or your viewing hand in order to
+	use its effect.  Unless otherwise specified, you cannot use a
+	discard effect of a no-effect card.
+	</para>
+    </section>
+
+    <section id="usage">
+    <title>Using Effects</title>
+	<para>
+	Some cards have effects on other cards (e.g., the 2&spades;).  Unless
+	otherwise specified, effects of this type do not effect protected or
+	no-effect cards.  Other cards have effects on a player's 5-card poker
+	hand.  Unless otherwise specified, effects of this type do effect
+	protected and no-effect cards.  If a card has an effect on all cards
+	or any group of cards defined in a way other than those listed above,
+	then it will specify whether it affects protected and/or no-effect
+	cards.
+	</para>
+    </section>
+</section>
+
+<section id="one">
+<title>Playing a Joker, 1 of Red, 1 of a Suit</title>
+    <para>
+    The 1 is something of an anomaly.  An ace is not a 1, it is an A.
+    A Joker is a 1 of Black.
+    A 1 of Red is created when any red card's numeric value is changed down
+    from 2 or up from A by a five.  A card who's numeric value is made 1 in
+    this way does not count as a 1 of any suit; it is either a 1 of red (if
+    it was originally a red card) or a 1 of black (if it was originally a
+    black card).  A 1 of a suit is created when a joker is played as the
+    last card of a double-five card set (see the rules for the double-five
+    card set).
+    </para>
+
+    <variablelist>
+	<varlistentry>
+	<term>1 Black</term>
+	    <listitem><para>
+	    Put the 1 Black in the pot.  Put two cards from your stash
+	    into your cards-to-be-played.  Do not apply this effect if the 1 has
+	    a defined suit (see above).
+	    </para></listitem>
+	</varlistentry>
+
+	<varlistentry>
+	<term>1 Red</term>
+	    <listitem><para>
+	    Take a card at random from any player's stash and play it as
+	    if he had just forced it on you.  Do not apply this effect if the 1
+	    has a defined suit (see above).
+	    </para></listitem>
+	</varlistentry>
+
+	<varlistentry>
+	<term>1&clubs;</term>
+	    <listitem><para>
+	    The player on your left splits your stash into two piles and you
+	    put ones of them into the pot.
+	    </para></listitem>
+	</varlistentry>
+
+	<varlistentry>
+	<term>1&diamonds;</term>
+	    <listitem><para>
+	    The player on your left splits the pot into two piles and you add
+	    one of them to your stash.
+	    </para></listitem>
+	</varlistentry>
+
+	<varlistentry>
+	<term>1&hearts;</term>
+	    <listitem><para>
+	    All wilds on all players' tables go to the pot, even if they are
+	    no-effect or are part of a tile.
+	    </para></listitem>
+	</varlistentry>
+
+	<varlistentry>
+	<term>1&spades;</term>
+	    <listitem><para>
+	    Look at all players' viewing hands.  You may trade viewing hands
+	    with any player, or you may choose to keep your own viewing hand.
+	    </para></listitem>
+	</varlistentry>
+    </variablelist>
+</section>
+
+<section id="two">
+<title>Playing a 2</title>
+    <variablelist>
+	<varlistentry>
+	<term>2&spades; ("The Standard 2 Rule")</term>
+	    <listitem><para>
+	    You may trade the 2 for any card on any opponent's table.  Put the
+	    2 on his table and the card for which you trade it on your table.
+	    You may choose not to use this effect.  You may not trade for one
+	    of your own cards.  You may not trade the 2 if there are no cards
+	    to trade for.
+	    </para></listitem>
+	</varlistentry>
+
+	<varlistentry>
+	<term>2&hearts;</term>
+	    <listitem><para>
+	    Same as the Standard 2 Rule, but if you trade it for a card you
+	    must treat the card you take as though you had just played it.  You
+	    may not use a 2&hearts; to trade for another 2&hearts;.
+	    </para></listitem>
+	</varlistentry>
+
+	<varlistentry>
+	<term>2&diamonds;</term>
+	    <listitem><para>
+	    Same as the Standard 2 Rule, except that you may take either any
+	    two cards (excluding protected cards) from one opponent's table
+	    or any one card including protected and/or no-effect cards from
+	    an opponent's table in trade for the 2.
+	    </para></listitem>
+	</varlistentry>
+
+	<varlistentry>
+	<term>2&clubs;</term>
+	    <listitem><para>
+	    Same as the Standard 2 Rule.  You have the option to pay 3 cards
+	    as a fee from your stash to the pot.  If you do so, do not trade
+	    the 2 as per the Standard 2 Rule.  Instead, trade your 5-card
+	    poker hand with that of any player of your choice.  If you trade
+	    5-card poker hands with a player, then the player receiving your
+	    5-card poker hand may, if he sees that you have a higher 5-card
+	    poker hand than you have declared, force you to declare it before
+	    passing.
+	    </para></listitem>
+	</varlistentry>
+    </variablelist>
+</section>
+
+<section id="three">
+<title>Playing a 3</title>
+    <variablelist>
+	<varlistentry>
+	<term>3&hearts;, 3&spades;, 3&diamonds;</term>
+	    <listitem><para>
+	    The 3 becomes wild.
+	    </para><para>
+	    &trig-start;Beginning of your turn&trig-end;  During the turn that
+	    is beginning, none of the cards already on your table count
+	    towards the maximum number of cards on your table.
+	    </para></listitem>
+	</varlistentry>
+
+	<varlistentry>
+	<term>3&clubs;</term>
+	    <listitem><para>
+	    This card must be added to your 5-card poker hand unless, due to
+	    the effects of other cards, you don't have one.
+	    </para><para>
+	    &trig-start;You redeclare your 5-card poker hand&trig-end;  As
+	    many 3&clubs; as you have on your table (up to 5) that are
+	    in-effect as 3&clubs; must be added to your 5-card poker hand.
+	    </para></listitem>
+	</varlistentry>
+    </variablelist>
+</section>
+
+<section id="four">
+<title>Playing a 4</title>
+    <variablelist>
+	<varlistentry>
+	<term>4&hearts;, 4&spades; ("The Standard 4 Rule")</term>
+	    <listitem><para>
+	    &cont;  The correct number of cards in your viewing hand is
+	    increased by one.
+	    </para></listitem>
+	</varlistentry>
+
+	<varlistentry>
+	<term>4&clubs;</term>
+	    <listitem><para>
+	    &cont;  The correct number of cards in your viewing hand is
+	    decreased by one.
+	    </para></listitem>
+	</varlistentry>
+
+	<varlistentry>
+	<term>4&diamonds;</term>
+	    <listitem><para>
+	    You may pay a fee of 3 cards to the pot and discard the 4&diamonds;
+	    to replay one of the cards on your table.  The card you replay
+	    may be a protected card, but not a no-effect card.
+	    </para><para>
+	    &cont;  The maximum number of cards that you may have on your
+	    table before ending your turn is increased by 1.
+	    </para></listitem>
+	</varlistentry>
+    </variablelist>
+</section>
+
+<section id="five">
+<title>Playing a 5</title>
+    <section id="five-general">
+    <title>General 5 Effects</title>
+	<para>
+	Even if, after the 5 is played, it would normally be time for someone
+	else to play a card, you must play another card before any other
+	effects (including the beginning of a turn) can occur.
+	</para>
+
+	<para>
+	Tile the card played after the 5 with the 5.  The 5 must be the left
+	card in this tile.
+	</para>
+
+	<para>
+	If the 5 is red, then the card played after it has a value "in effect"
+	of one lower than its face value.  That is, if the next card played
+	is a 3 then it has the special card rule for a 2 invoked instead of
+	the rule for a 3.  A 2 becomes a 1-of-a-color (see rules for Jokers
+	and 1s).
+	</para>
+
+	<para>
+	If the 5 is black, then the card played after it has a value "in
+	effect" of one higher than its face value.  An A becomes a 1-of-a-color.
+	</para>
+
+	<para>
+	After it is on your table, the effect of the tile is considered to
+	be the same as the effect of the last card-in-effect added to it.
+	For example, a tile of 5&clubs; + 4&spades; + 2&clubs; is considered
+	to have all of the effects that a 4&clubs; would have.
+	</para>
+
+	<para>
+	The card played after the 5 retains its face value in evaluation of
+	your 5-card poker hand.
+	</para>
+
+	<para>
+	Each player pays a fee of 1 to the pot.
+	</para>
+    </section>
+
+    <section id="five-clarifications">
+    <title>The 5 in Special Situations</title>
+	<para>
+	If you follow a 5 by a card that becomes a 5-in-effect, add the
+	effects of these two 5s in evaluating the value in-effect of the
+	card that follows.  This concept can be expanded indefinitely.  For
+	example, a red 5 followed by a red 6 (red 5-in-effect) causes the card
+	following the 6 to have its value decreased by 2 in effect.
+	</para>
+
+	<para>
+	If you follow a 5 with a Joker (1 of Black) then you can choose which
+	Black suit (&clubs; or &spades;) it is.
+	</para>
+
+	<para>
+	If a card-in-effect has an effect that causes it to leave your hand
+	(e.g., a Joker, or a Q), then the 5-tile on which it was played is
+	broken up.
+	</para>
+
+	<para>
+	If the last card of a 5-tile is passed to another player (e.g., a
+	Q-in-effect), then the following things occur:
+	<orderedlist>
+	    <listitem><para>
+	    The card that is passed has all of its card-in-effect properties
+	    during the card passing.
+	    </para></listitem>
+
+	    <listitem><para>
+	    Any effects stemming from this card being passed are resolved.
+	    </para></listitem>
+
+	    <listitem><para>
+	    The card that was passed is played with its original value into
+	    the hand of the person to whom it was passed.
+	    </para></listitem>
+
+	    <listitem><para>
+	    The 5-tile is broken up.
+	    </para></listitem>
+	</orderedlist>
+	</para>
+    </section>
+
+    <section id="five-forcing">
+    <title>Forcing a 5 (to be Played)</title>
+	<para>
+	If, when you force a 5 on another player, it is your turn, you may
+	choose to end your turn.  If you do so, you may then force another
+	card from your viewing hand to be played on the 5.  Note that normally
+	the player on whom the 5 was forced, having effectively played the 5,
+	would get to choose one of his viewing-hand cards to play on it.
+	</para>
+
+	<para>
+	If, when you force a 5 on another player, it is not your turn, you
+	may turn the bottom-most card in your stash (not counting any cards
+	that may already be sideways) sideways.  If you do so, you may then
+	force another card from your viewing hand to be played on the 5.  You
+	may only invoke this rule if you have at least one non-sideways card
+	in your stash.
+	</para>
+
+	<para>
+	For purposes of card reflection, tunnelling, or other effects that
+	interfere with a forced-card situation, the 5 and all cards that are
+	forced with it using the above rules are treated as one forced card.
+	</para>
+    </section>
+</section>
+
+<section id="six">
+<title>Playing a 6</title>
+    <section id="six-shaft">
+    <title>Shaft</title>
+	<para>
+	You must force one card from your viewing hand into any player's
+	table (it may be your table or any opponent's table); treat this card
+	as if the person on the table of whom you play it had just played it.
+	</para>
+    </section>
+
+    <section id="six-tunnel">
+    <title>Tunnel</title>
+	<para>
+	&discard;  You may use this effect immediately after any opponent
+	tries to force a card other than the K&clubs; onto your table.  Put
+	your viewing hand in the pot.  The card that was being forced on
+	you does not come into play on your table.  You choose an opponent
+	other than the one who tried to force the card on you and force the
+	card on that player.
+	</para>
+    </section>
+
+    <section id="six-ring">
+    <title>The Ring Rule</title>
+	<para>
+	If one player gives another the shaft power by playing a 6 onto that
+	player's table, then that player uses that shaft power to give the
+	shaft power to a third player, and this continues until each player
+	has been given the shaft power once, then the following occurs:
+	<orderedlist>
+	    <listitem><para>
+	    The player who last received the shaft power does not get the
+	    shaft power.
+	    </para></listitem>
+
+	    <listitem><para>
+	    The pot is divided by the splitter into a number of piles (of
+	    roughly equal size) equal to the number of players and each
+	    player (starting on the splitter's left and continuing in a
+	    circle to the left) takes one of the piles and adds it to his
+	    stash.
+	    </para></listitem>
+
+	    <listitem><para>
+	    Play continues as normal.
+	    </para></listitem>
+	</orderedlist>
+	</para>
+    </section>
+</section>
+
+<section id="seven">
+<title>Playing a 7</title>
+    <variablelist>
+	<varlistentry>
+	<term>7&hearts;, 7&spades; ("The Standard 7 Rule")</term>
+	    <listitem><para>
+	    Each player must pay you a two card fee.
+	    </para></listitem>
+	</varlistentry>
+
+	<varlistentry>
+	<term>7&clubs;</term>
+	    <listitem><para>
+	    You must pay each player a two card fee.
+	    </para></listitem>
+	</varlistentry>
+
+	<varlistentry>
+	<term>7&diamonds;</term>
+	    <listitem><para>
+	    Each player must pay you a four card fee.
+	    </para></listitem>
+	</varlistentry>
+    </variablelist>
+</section>
+
+<section id="eight">
+<title>Playing an 8</title>
+    <para>
+    If you pay a 1 card fee to the pot, the 8 becomes wild.
+    </para>
+
+    <para>
+    If you pay a 2 card fee to the pot, you may keep the 8 on your table.
+    </para>
+
+    <para>
+    If you do not pay any fee for the 8, it is immediately discarded.  You
+    must then choose a tile from any table and break it up.
+    </para>
+
+    <para>
+    &cont;  Reduces all of your fees by 1.  Fees can never be made negative.
+    </para>
+</section>
+
+<section id="nine">
+<title>Playing a 9</title>
+    <variablelist>
+	<varlistentry>
+	<term>9&hearts;, 9&spades; ("The Standard 9 Rule")</term>
+	    <listitem><para>
+	    You must choose one card from an opponent's table and discard it.
+	    You ay not choose a card on your own table.
+	    </para></listitem>
+	</varlistentry>
+
+	<varlistentry>
+	<term>9&diamonds;</term>
+	    <listitem><para>
+	    If the card's face value is 9&diamonds;, you win and the
+	    9&diamonds; is put into the discard pile.  If the card is merely
+	    a 9&diamonds; in-effect, you must choose one card from an
+	    opponent's table and discard it.  You may not choose a card on your
+	    own table, but you may choose a protected and/or no-effect card.
+	    </para></listitem>
+	</varlistentry>
+
+	<varlistentry>
+	<term>9&clubs;</term>
+	    <listitem><para>
+	    The player next to you in the direction of play chooses one of the
+	    cards already on your table (not the 9&clubs; being played) and
+	    discards it.
+	    </para></listitem>
+	</varlistentry>
+    </variablelist>
+</section>
+
+<section id="ten">
+<title>Playing a 10</title>
+    <variablelist>
+	<varlistentry>
+	<term>10&hearts; ("Dump")</term>
+	    <listitem><para>
+	    All cards in your viewing hand are added to your cards-to-be-played.
+	    </para></listitem>
+	</varlistentry>
+
+	<varlistentry>
+	<term>10&spades;</term>
+	    <listitem><para>
+	    You must put your entire viewing hand into the pot.  You may
+	    force one of the cards already on your table (not the 10&spades;
+	    being played) onto another player's table as if he had just
+	    played it.  The card you force may be a protected card, but not a
+	    no-effect card.
+	    </para></listitem>
+	</varlistentry>
+
+	<varlistentry>
+	<term>10&clubs; ("Card of Death")</term>
+	    <listitem><para>
+	    If you have no no-effect cards, you lose the hand.  You put the
+	    10&clubs; in your stash.  Your viewing hand, table, and
+	    cards-to-be-played go to the pot.
+	    </para><para>
+	    If you have any no-effect cards, they are no longer no-effect.
+	    None of the immediate effects of these cards occur, but all other
+	    effects (discard, continuous, triggered) come into play as
+	    normal.  Even any protected cards you may have as no-effects are
+	    affected.
+	    </para></listitem>
+	</varlistentry>
+
+	<varlistentry>
+	<term>10&diamonds;</term>
+	    <listitem>
+	    <para>
+	    The 10&diamonds; is a protected card.  It has two major effects:
+	    </para>
+
+	    <variablelist>
+		<varlistentry>
+		<term>"Magic"</term>
+		    <listitem> <para>
+		    &discard;  You may use this effect whenever a card other
+		    then the K&clubs; is being played on your table.  That card
+		    enters your table as a no-effect (with none of its effects
+		    occurring).  You may also use this effect when an opponent
+		    plays a card that has an effect on your cards, turn, or
+		    status in the game.  That effect does not occur, but if
+		    the card has effects on other players as well, those
+		    effects resolve as normal.  Continuous effects cannot be
+		    prevented in this way.
+		    </para></listitem>
+		</varlistentry>
+
+		<varlistentry>
+		<term>"Control"</term>
+		    <listitem>
+		    <para>
+		    When you force a 10&diamonds; into another player's table,
+		    you "gain control" of his hand.  He may not use that
+		    10&diamonds; in any way until you have "released control"
+		    of his hand.  For the duration between when you gain
+		    control of his hand and when you release control of his
+		    hand, you are said to be "in control" of his hand.
+		    </para>
+
+		    <para>
+		    You must look at his viewing hand and play a card from it
+		    onto his table.  This card is treated as though you had
+		    forced it onto his table.  When all of the effects stemming
+		    from this card's being played are completed, you release
+		    control of his hand.
+		    </para>
+
+		    <para>
+		    While you are in control of his hand, you choose which 
+		    of his cards he plays at any time when he would play cards
+		    except after a 5 is played on his table.
+		    </para>
+
+		    <para>
+		    If it is your turn and a 5 has been played on his table,
+		    you may end your turn to choose which of his cards he
+		    plays after the 5.  If it is not your turn and a 5 has
+		    been played on his table, you may turn the bottom-most
+		    card in your stash (not counting any cards that may
+		    already be sideways) sideways to choose which of his cards
+		    he plays after the 5.  This procedure is to be treated
+		    exactly the same as described above in
+		    <link linkend="five-forcing">Forcing a 5</link>.  If
+		    you do not employ this option, he chooses which card he
+		    plays after the 5.
+		    </para>
+
+		    <para>
+		    Any time that you choose which card he plays, it is
+		    treated as though you had forced that card onto the table
+		    onto which it is played.  You gain control only over which
+		    cards he plays and (when applicable, e.g. after a 6) where
+		    he plays them (e.g., onto which table).
+		    </para>
+
+		    <para>
+		    You may not use this effect on yourself.
+		    </para>
+		    </listitem>
+		</varlistentry>
+	    </variablelist>
+	    </listitem>
+	</varlistentry>
+    </variablelist>
+</section>
+
+<section id="jack">
+<title>Playing a J</title>
+    <para>
+    The next card played by anybody is a no-effect card.  None of its effects
+    occur.
+    </para>
+
+    <para>
+    &discard;  You may use this effect at any time during your turn, or when
+    you have cards-to-be-played.  The J used for this effect must be no-effect.
+    When you use this effect, you must choose any no-effect card on any table
+    to return to regular (not no-effect) card status.  No immediate effects
+    of the affected card occur, but all of its other effects come into play
+    as normal.
+    </para>
+
+    <variablelist>
+	<varlistentry>
+	<term>J&hearts;, J&spades;, J&diamonds;</term>
+	    <listitem><para>
+	    &cont;  You must pay an extra card on any fee.
+	    </para></listitem>
+	</varlistentry>
+
+	<varlistentry>
+	<term>J&clubs;</term>
+	    <listitem><para>
+	    &cont;  You must pay an extra 2 cards on any fee.
+	    </para></listitem>
+	</varlistentry>
+    </variablelist>
+</section>
+
+<section id="queen">
+<title>Playing a Q</title>
+    <variablelist>
+	<varlistentry>
+	<term>Q&diamonds;</term>
+	    <listitem><para>
+	    The Q&diamonds; goes to the table of the player sitting next to you
+	    in the direction of play.  That player doesn't play this card, and
+	    the card is not considered forced on that player.  You may look
+	    at the viewing hand of the player who receives the Q&diamonds;.
+	    </para></listitem>
+	</varlistentry>
+
+	<varlistentry>
+	<term>Q&hearts;</term>
+	    <listitem><para>
+	    Same as the Q&diamonds;, except it goes to the player sitting
+	    next to you in the direction opposite the direction of play.
+	    </para></listitem>
+	</varlistentry>
+
+	<varlistentry>
+	<term>Q&clubs;</term>
+	    <listitem><para>
+	    Same as the Q&diamonds;, except you can't look at the player's
+	    viewing hand.  Instead, you must also pass another card from
+	    your table (not your cards-to-be-played) with the Q&clubs; if
+	    possible.  This may include protected cards but not no-effect
+	    cards.  That card is treated as if the person receiving it had
+	    just played it.  You may not pass another Q&clubs; or a
+	    Q&spades; with the Q&clubs;.  You may pay a fee of 2 to the
+	    pot in order to pass 2 cards instead of one.  In this case, the
+	    2 cards must be a valid card pair and are played as a pair by
+	    the person receiving them.
+	    </para></listitem>
+	</varlistentry>
+
+	<varlistentry>
+	<term>Q&spades;</term>
+	    <listitem><para>
+	    Same as the Q&clubs;, except that you pass the cards in the
+	    direction opposite the direction of play.
+	    </para></listitem>
+	</varlistentry>
+    </variablelist>
+</section>
+
+<section id="king">
+<title>Playing a K</title>
+    <variablelist>
+	<varlistentry>
+	<term>K&hearts;</term>
+	    <listitem><para>
+	    You must put one card from your table into the pot.  Each other
+	    player must discard a card from his table (even protected cards
+	    may be discarded in this manner, and if he has only protected 
+	    cards to choose from, then he must discard one of them even though
+	    they are protected), unless he has only no-effect cards or no
+	    cards on his table.  Discarding in this manner is a fee and is
+	    affected by Js and 8s, but you putting a card in the pot is not.
+	    </para></listitem>
+	</varlistentry>
+
+	<varlistentry>
+	<term>K&diamonds; ("The Somewhat-Less-Than-Entirely-Concise
+	King Rule")</term>
+	    <listitem>
+	    <para>
+	    The rule that is the rule invoked by the playing of the card
+	    that is the K&diamonds; is as follows: The player who is the
+	    player playing the card that is the K&diamonds; must place the
+	    K&diamonds; into the pot.  He (the player who is the player
+	    playing the card that is the K&diamonds;) must, if possible, then
+	    choose one card from each table that is the table of a player
+	    other than the player playing the card that is the K&diamonds;,
+	    which is then placed into the pile of cards that is the discard
+	    pile.  The player who is the player playing the K&diamonds; may
+	    not, in such manner, choose any card from an opponent's table if
+	    that card be protected or no-effect.
+	    </para>
+
+	    <para>
+	    TRANSLATION: You must put the K&diamonds; into the pot.  You must
+	    then choose one card that is neither protected nor no-effect from
+	    each opponents' table and place it in the discard.
+	    </para>
+	    </listitem>
+	</varlistentry>
+
+	<varlistentry>
+	<term>K&spades;</term>
+	    <listitem><para>
+	    You must discard your current five-card poker hand.  If the
+	    K&spades; was forced on you by another player, and if that player
+	    sees a higher hand that you have not declared, he may force you to
+	    form it and discard it instead of the one you declared.  Every
+	    card in the five-card poker hand gets discarded, even if it is
+	    protected or no-effect.  If you must discard part of a 5-tile,
+	    the rest of the tile is broken up.
+	    </para></listitem>
+	</varlistentry>
+
+	<varlistentry>
+	<term>K&clubs; ("Bomb")</term>
+	    <listitem><para>
+	    Every card on your table (including protected cards) is put in the
+	    pot except no-effect cards.
+	    </para></listitem>
+	</varlistentry>
+    </variablelist>
+</section>
+
+<section id="ace">
+<title>Playing an A</title>
+    <variablelist>
+	<varlistentry>
+	<term>A&diamonds;, A&hearts;, A&spades;</term>
+	    <listitem><para>
+	    If it is your turn, then your turn is over.  You may not regain
+	    the turn until after the next time your turn begins.
+	    </para></listitem>
+	</varlistentry>
+
+	<varlistentry>
+	<term>A&clubs;</term>
+	    <listitem><para>
+	    If it is your turn, your turn is over.  If you have
+	    cards-to-be-played, they are placed on your table with no
+	    immediate effects.  Any card effects you are processing are
+	    immediately termintaed.  You cannot regain the turn until after
+	    the next time your turn begins.
+	    </para></listitem>
+	</varlistentry>
+    </variablelist>
+</section>
+
+<section id="cardpairs">
+<title>Card Pairs</title>
+    <para>
+    An acceptable card pair or card set can be played at any time during a
+    person's turn, even as his last card.  After the special pair rule is
+    invoked, the cards played are separated unless otherwise specified.  When
+    pairs or sets are separated in this manner, no immediate effects of the
+    individual cards take effect, but continuous effects do.  The cards must
+    be played simultaneously - they are played as one card - but they are
+    counted separately when evaluating your hand.  You cannot have
+    card-pairs-in-effect.  No part of a card pair can be a card-in-effect.
+    </para>
+    
+    <variablelist>
+	<varlistentry>
+	<term>Jokers</term>
+	    <listitem><para>
+	    Any number of Jokers greater than 2 can be played as one card.
+	    They are each resolved individually.
+	    </para></listitem>
+	</varlistentry>
+
+	<varlistentry>
+	<term>Joker + Joker + 7</term>
+	    <listitem><para>
+	    The cards in this set, along with 4 cards from each player's
+	    stash, are placed in a new pile called the f_pot.  The turn of
+	    the player whose turn it is ends.  Play is paused.  The players
+	    begin a game of <link linkend="fpoker">fpoker</link>.  The f_pot
+	    just created and the players' stashes are used as the card-piles
+	    of the same name in the f_poker game.  The direction of play is
+	    marked during the f_poker game in the same way as it is marked in
+	    this game; the direction of play in the f_poker game starts as
+	    whatever the direction of play is in this game at the time the
+	    f_poker game starts, and the direction of play in this game is
+	    changed to the same direction as the direction of play of the
+	    f_poker game when the f_poker game ends.  The person who played
+	    this set is the first player in the game of f_poker.  Play is
+	    resumed.  The turn of the player who won the f_poker game begins,
+	    but that player can not win the hand at this time.
+	    </para></listitem>
+	</varlistentry>
+
+	<varlistentry>
+	<term>2&hearts; + 2&diamonds;</term>
+	    <listitem><para>
+	    Has the same effect as the 2&diamonds;, but any cards you take are
+	    replayed onto your table.  Cards taken by this pair cannot be
+	    played as a pair.
+	    </para></listitem>
+	</varlistentry>
+
+	<varlistentry>
+	<term>3&clubs; + 3&clubs;</term>
+	    <listitem><para>
+	    Remains tiled.
+	    </para><para>
+	    &cont;  You cannot have a 5-card poker hand.
+	    </para></listitem>
+	</varlistentry>
+
+	<varlistentry>
+	<term>4 + 4</term>
+	    <listitem><para>
+	    You may take 1 card from your table and put it into your viewing
+	    hand.  Do not apply this effect if both 4s are 4&diamonds;.
+	    </para></listitem>
+	</varlistentry>
+
+	<varlistentry>
+	<term>4&diamonds; + 4&diamonds;</term>
+	    <listitem><para>
+	    Put your 5-card poker hand into your cards-to-be-played.
+	    </para></listitem>
+	</varlistentry>
+
+	<varlistentry>
+	<term>4&diamonds; + 4&diamonds; + 4&diamonds;</term>
+	    <listitem><para>
+	    Put all cards on your table into your cards-to-be-played.  This
+	    includes protected cards but not no-effect cards.
+	    </para></listitem>
+	</varlistentry>
+
+	<varlistentry>
+	<term>5 + 5 (of the same suit) + card</term>
+	    <listitem><para>
+	    This set remains tiled.  The last of the 3 cards (not either of
+	    the 5s) retains its face-value suit for evaluating your five-card
+	    poker hand, but it has the same suit "in effect" as the two 5s,
+	    so that a 5&hearts; + 5&hearts; + 2&diamonds; gives you a
+	    2&hearts;-in-effect.  If the resulting card leaves your hand,
+	    break the tile.
+	    </para></listitem>
+	</varlistentry>
+
+	<varlistentry>
+	<term>6 + 6 + 6 ("<emphasis>D</emphasis>iscreationary
+	<emphasis>S</emphasis>hafting <emphasis>U</emphasis>nit")</term>
+	    <listitem>
+	    <para>
+	    Remains tiled.
+	    </para>
+
+	    <para>
+	    &cont;  The cards in this tile don't count towards your maximum
+	    number of cards on the table.
+	    </para>
+
+	    <para>
+	    &cont;  The cards in this tile cannot be part of your 5-card poker
+	    hand.
+	    </para>
+
+	    <para>
+	    &trig-start;You scrap your hand&trig-end;  This tile is not
+	    scrapped; it remains on your table.
+	    </para>
+
+	    <para>
+	    &cont;  K&spades;, K&clubs;, K&hearts;, and K&diamonds; cannot
+	    affect this tile.  K&clubs; + K&clubs; does affect it, however.
+	    </para>
+
+	    <para>
+	    &cont;  9s and 2s (even 9&diamonds; and 2&diamonds;) cannot affect
+	    this tile.
+	    </para>
+
+	    <para>
+	    &cont;  Playing a J + J does not affect this tile.
+	    </para>
+
+	    <para>
+	    &cont;  If all three 6s are the same suit, then the tile cannot
+	    be broken by an 8.
+	    </para>
+
+	    <para>
+	    &trig-start;At some time during your turn and after the beginning
+	    of your turn you choose to use this effect&trig-end;  One of the
+	    6s that is not already sideways is turned sideways but not
+	    separated from the tile; this card does not count as a no-effect
+	    card.  You may force a card onto any table as though you had just
+	    played a 6.
+	    </para>
+
+	    <para>
+	    &cont;  If at any time all three 6s are sideways, discard the tile.
+	    </para>
+
+	    <para>
+	    &cont;  A no-effect J may be discarded to un-sideways one of the
+	    sideways 6s in the tile.
+	    </para>
+
+	    <para>
+	    &cont;  If the tile is replayed, any sideways 6s are no longer
+	    sideways.
+	    </para>
+
+	    <para>
+	    &trig-start;The tile is broken&trig-end;  Any of the 6s that were
+	    sideways enter your table as no-effect 6s; the rest enter as
+	    normal 6s.
+	    </para>
+	    </listitem>
+	</varlistentry>
+
+	<varlistentry>
+	<term>7&hearts; + 7&hearts; ("Black Hole")</term>
+	    <listitem><para>
+	    This pair remains tiled.
+	    </para><para>
+	    &trig-start;The beginning of any turn&trig-end;  Each player pays
+	    you 2 cards.
+	    </para></listitem>
+	</varlistentry>
+
+	<varlistentry>
+	<term>7&clubs; + 7&clubs; ("White Hole")</term>
+	    <listitem><para>
+	    This pair remains tiled.
+	    </para><para>
+	    &trig-start;The beginning of any turn&trig-end;  You pay each
+	    player 2 cards.
+	    </para></listitem>
+	</varlistentry>
+
+	<varlistentry>
+	<term>9&diamonds; + 10&clubs;</term>
+	    <listitem><para>
+	    Trade viewing hands, cards-to-be-played, tables and stashes with
+	    the person in the table of whom you play this pair.  Do not
+	    trade places with him.  The 10&diamonds; can not prevent this
+	    effect.  Play then continues as normal.  If it was your turn, it
+	    still is, and your turn is in that case ended if you now have at
+	    least as many cards on your table as your maximum number of
+	    cards on the table.  Place the 9&diamonds; and 10&clubs; being
+	    played into the discard.
+	    </para></listitem>
+	</varlistentry>
+
+	<varlistentry>
+	<term>10&diamonds; + card</term>
+	    <listitem>
+	    <para>
+	    Remains tiled.
+	    </para>
+
+	    <para>
+	    &cont;  You cannot play any card or card-pair containing a card
+	    that is of the same rank as the second card in this tile onto your
+	    table.  If an attempt is made to play such a card to your table,
+	    the card is discarded with none of its effects occurring.
+	    </para>
+
+	    <para>
+	    &trig-start;You scrap your hand&trig-end;  This tile is not
+	    scrapped; it remains on your table.
+	    </para>
+	    </listitem>
+	</varlistentry>
+
+	<varlistentry>
+	<term>J + J ("Shield")</term>
+	    <listitem><para>
+	    All of the cards on your table, including the Js, become no-effect
+	    cards.  Any tile that is subject to this effect is broken up.
+	    </para></listitem>
+	</varlistentry>
+
+	<varlistentry>
+	<term>J + J + J</term>
+	    <listitem><para>
+	    Remains tiled.
+	    </para><para>
+	    &cont;  If the Js are not all the same suit, then all fees payed
+	    by any player are doubled.  If the Js are all of the same suit,
+	    then all fees payed by any player are tripled.  Resolve this
+	    effect after any effects that add to or subtract from such fees.
+	    </para></listitem>
+	</varlistentry>
+
+	<varlistentry>
+	<term>Q + Q (of the same suit)</term>
+	    <listitem><para>
+	    Reverse the direction of play (if direction of play was left, it is
+	    now right; if direction of play was right, it is now left).  If
+	    your turn is over but the turn of the person next to you in the
+	    direction of play (the direction of play before this effect was
+	    resolved) has not yet begun, then that player's turn will not
+	    begin.  Instead, the turn of the person in the new direction of
+	    play (the direction of play set by this effect) begins next.
+	    </para></listitem>
+	</varlistentry>
+
+	<varlistentry>
+	<term>K&clubs; + K&clubs; ("Atomic Bomb")</term>
+	    <listitem><para>
+	    ALL cards on all tables (even protected and no-effect cards) and
+	    the discard pile are put into the pot.  10&diamonds; "Magic"
+	    effects cannot be used to prevent this.
+	    </para></listitem>
+	</varlistentry>
+
+	<varlistentry>
+	<term>A + A</term>
+	    <listitem><para>
+	    If it is your turn, your turn is ended.  You may not regain the
+	    turn until after the next time your turn begins.  If, after this
+	    effect, it is the player next to you in the direction of play's
+	    turn, his turn is ended.  He may not regain the turn until after
+	    the next time his turn begins.
+	    </para></listitem>
+	</varlistentry>
+    </variablelist>
+</section>
+
+<section id="jointeffects">
+<title>Joint Effects</title>
+    <para>
+    Sometimes, having a certain group of cards present on your table will make
+    certain effects available to you.  Unless otherwise specified, the cards
+    must be on your table and not no-effect for these effects to be
+    available.  A card-in-effect may be used in a joint effect, in which case
+    the last card in the tile is subject to any requirement that the card be
+    discarded, passed, etc.  A card that is part of a tile can in no other
+    case be used in a joint effect.  For example, the tile 5&spades; +
+    4&spades; + 3&spades; + 7&diamonds; can be used as a 10&diamonds; in a
+    joint effect, and if the effect requires that the 10&diamonds; is
+    discarded, the 7&diamonds; is discarded (and the tile broken up), but
+    none of the individual cards in the tile (7&diamonds;, 3&spades;, etc.)
+    can be used in a joint effect.
+    </para>
+
+    <variablelist>
+	<varlistentry>
+	<term>6 and 10&diamonds; ("Reflector")</term>
+	    <listitem>
+	    <para>
+	    &trig-start;A card is being forced onto your table&trig-end;
+	    You may discard both the 6 and the 10&diamonds;.  If you do so,
+	    the card is not played on your table.  You instead force it onto
+	    the table of the player who was forcing it onto your table.  If
+	    the card was coming to you via a Q or Q-in-effect, that Q is also
+	    returned to the table of the person trying to pass it to you.  If
+	    it was a Q-in-effect, the player plays the card that was used as
+	    a Q-in-effect after playing the card he tried to pass with it.
+	    </para>
+
+	    <para>
+	    If a K&clubs; is to be played upon you and you want to reflect it,
+	    you must use 2 full reflector pairs to do so (two 10&diamonds;s and
+	    two 6s).
+	    </para>
+	</varlistentry>
+
+	<varlistentry>
+	<term>3&clubs; and wild ("Neutralization")</term>
+	    <listitem><para>
+	    You may discard both the 3&clubs; and the wild at any time.
+	    </para></listitem>
+	</varlistentry>
+    </variablelist>
+</section>
+</chapter>

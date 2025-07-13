@@ -1,0 +1,155 @@
+<chapter id="f-generalrules">
+<title>General Rules</title>
+
+<section id="f-history">
+<title>History</title>
+    <para>
+    Fractal Poker was added to Bureaucracy Poker in 1994 by Mark "Durak"
+    Adelsberger, John "Death" Adelsberger, John "Jelly Roll" Bley, and Mike
+    "The Idiot" Shuey, all from St. Louis, MO.  For further rules
+    information, follow the procedure outlined in section 1.1 of the
+    Bureaucracy Poker rules.
+    </para>
+</section>
+
+<section id="f-materials">
+<title>Materials</title>
+    <para>
+    The materials for Bureaucracy Poker are sufficient for a game of Fractal
+    Poker.
+    </para>
+</section>
+
+<section id="f-players">
+<title>Players</title>
+    <para>
+    Three or more players are required.
+    </para>
+</section>
+
+<section id="f-gameplay">
+<title>Game Play</title>
+    <para>
+    Fractal Poker is normally started as a result of special rules in
+    Bureaucracy Poker.  No official rules exist for starting a stand-alone
+    game of Fractal Poker.
+    </para>
+
+    <para>
+    At the start of the Fractal Poker game, each player should have a stash
+    and a card pile should be established as the f_pot.
+    </para>
+
+    <para>
+    Each player draws five (5) cards from his stash.  This is the player's
+    f_hand.  The first round of betting begins.  The total bet starts at zero
+    (0).  Each player, in turn, starting with the first player and proceeding
+    in the direction of play, has three options:
+    </para>
+
+    <itemizedlist>
+	<listitem><para>
+	He may match the total bid by turning up a number of cards equal to the
+	total bid into the f_pot.
+	</para></listitem>
+
+	<listitem><para>
+	He may raise the total bid.  The maximum amount by which he may raise
+	the total bid, unless it has been modified by Part II rules, is three
+	(3).  He must then turn up a number of cards equal to the new total
+	bid into the f_pot.
+	</para></listitem>
+
+	<listitem><para>
+	He may resign (see section 1.6).
+	</para></listitem>
+    </itemizedlist>
+
+    <para>
+    After the first round of betting comes the draw round.  Each player, in
+    turn, declares how many cards he wishes to draw.  He may choose any number
+    from zero (0) to three (3), unless those values have been changed by Part
+    II rules.  He places that number of cards from his hand into the f_pot.
+    These cards' special card rules are not invoked.  Then he draws that number
+    of cards from his stash.
+    </para>
+
+    <para>
+    After the draw round comes a second round of betting, exactly like the
+    first.  After the second round of betting, the player with the highest
+    ranking f_hand (see section 1.5) wins.  The f_pot is added to his stash.
+    </para>
+</section>
+
+<section id="f-handranking">
+<title>Hand Ranking</title>
+    <para>
+    The hands rank, from low to high, as follows:
+    </para>
+
+    <itemizedlist>
+	<listitem><para>
+	Crap - any player may declare his hand as crap if he wants to
+	</para></listitem>
+	<listitem><para>
+	Nothing - no cards on the table
+	</para></listitem>
+	<listitem><para>
+	High Card - 2,3,4,5,6,7,8,9,10,J,Q,K,A
+	</para></listitem>
+	<listitem><para>Pair</para></listitem>
+	<listitem><para>Two Pair</para></listitem>
+	<listitem><para>Three of a Kind</para></listitem>
+	<listitem><para>Full House</para></listitem>
+	<listitem><para>Straight</para></listitem>
+	<listitem><para>Four of a Kind</para></listitem>
+	<listitem><para>Five of a Kind</para></listitem>
+    </itemizedlist>
+
+    <para>
+    Jokers are wild; they may have any suit, color, and rank at any time.
+    Straights can not wrap from A to 1 (e.g., Q-K-A-1-2 is not a straight).  A
+    monochromatic (all cards of the same color) beats any non-monochromatic
+    hand.  The regular hand progression applies within monochromatic (i.e., a
+    monochromatic pair beats a monochromatic high card).
+    </para>
+
+    <para>
+    A flush (all cards of the same suit) beats any non-flush hand.  The regular
+    hand progression applies within flush.  (Note that any flush is also
+    monochromatic.)
+    </para>
+
+    <para>
+    If two hands are exactly the same except that one has fewer wilds than the
+    other, then the one with fewer wilds is higher.
+    </para>
+
+    <para>
+    If two or more hands are exactly identical, then they tie.  The players
+    who have the tied hands play another hand of f_poker to determine the
+    winner, using the same f_pot as was used for this hand.
+    </para>
+</section>
+
+<section id="f-resigning">
+<title>Resigning</title>
+    <para>
+    A player may resign at any time.  He places his f_hand into his stash.  He
+    no longer bets, has the chance to win, or is subject to Part II rules.  If
+    a Part II rule was just invoked, he is still subject to it if it is still
+    applicable.  If at any time a player does not have enough cards in his
+    stash to match the total bet when it is his turn to bet, he must resign.
+    If at any time a Part II rule requires that a player do something with
+    cards from his stash, and he doesn't have enough cards in his stash to do
+    so, he must resign and that Part II effect does not occur.
+    </para>
+</section>
+
+<section id="f-guidelines">
+<title>Guidelines</title>
+    <para>
+    As applicable, the guidelines from Bureaucracy Poker apply.
+    </para>
+</section>
+</chapter>

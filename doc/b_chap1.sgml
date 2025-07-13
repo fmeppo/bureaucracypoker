@@ -1,0 +1,496 @@
+<chapter id="generalrules">
+<title>General Rules</title>
+
+<section id="history">
+<title>History</title>
+    <para>
+    Bureaucracy Poker was invented and developed in 1994 by Mark "Durak"
+    Adelsberger, John "Death" Adelsberger, John "Jelly Roll" Bley, and Mike
+    "The Idiot" Shuey, all from St. Louis, MO.  If you are lucky, you can get
+    more information, including up-to-date rules information, by e-mailing
+    <email>mea@umr.edu</email> (Mark Adelsberger).  If you are not lucky, then
+    when you attempt to do so you will be told that no up-to-date information
+    exists yet.  Rules often become obsolete within a matter of a few days,
+    and in one case (the record to date) a set of rules expired within three
+    hours of being written.
+    </para>
+
+    <para>
+    NOTE - because the NBPI members now go to college in three different states,
+    rules changes are less frequent during the school year than they are
+    during the Summer.
+    </para>
+</section>
+
+<section id="materials">
+<title>Materials</title>
+    <para>
+    This is the one and only aspect of &bp; that was kept simple.  You will need
+    the following to play &bp;:
+    </para>
+    <itemizedlist>
+	<listitem><para>
+	Plenty of flat playing space (about 2.813 square feet per player)
+	</para></listitem>
+
+	<listitem><para>
+	The &corbp;.  This is at least as important as the cards.  It is best
+	to have a copy for each player, if possible.  While it is unrealistic
+	to expect to have a truly current copy, try to have the most up-to-date
+	one you can find.
+	</para></listitem>
+
+	<listitem>
+	<para>
+	One (1) &bp; Deck.  Combine standard fifty-two-card decks, plus Jokers.
+	Use at least two poker decks per player.  Remove all but two of the
+	10&clubs; and all but one of the 9&diamonds;.
+	</para>
+	<para><emphasis>
+	WARNING: DO NOT, IN YOUR RUSH TO BUY A BUNCH OF DECKS WITH THE SAME
+	BACK, BUY PINOCHLE DECKS!  THEY ARE TOTALLY USELESS IN A BUREAUCRACY
+	POKER DECK!!!</emphasis>  (Yes, this actually happened to the NBPI
+	once.)
+	</para>
+	</listitem>
+    </itemizedlist>
+</section>
+
+<section id="players">
+<title>Players</title>
+
+<para>
+At least three players are required.  Any number of players, three or more,
+can play, but odd numbers are best.
+</para>
+</section>
+
+<section id="beginning">
+<title>Beginning Play</title>
+
+    <para>
+    One player, called the splitter, takes the well-shuffled &bp; deck and
+    divides it into a number of roughly equal-sized stacks equal to the
+    number of players.  Each player in turn, starting on the splitter's left
+    and continuing around the table to the left, takes on of the stacks.  The
+    stack that a player takes is then that player's stash.  This method
+    ("splitting") is used instead of dealing because dealing a deck of
+    several hundred cards would take too long, and you wouldn't have enough
+    time to play the game.
+    </para>
+
+    <para>
+    The flat playing space is divided as follows: In front of each player is
+    that player's "table."  In the center (between the tables) is a space for
+    a discard pile and a pot.  Each player's table has space set aside for
+    that player's five-card poker hand.  All the cards on a player's table
+    are his cards in play.  Between a player and his table is space for his
+    cards-to-be-played.
+    </para>
+
+    <para>
+    Each player draws seven cards from his stash.  These are the player's
+    viewing hand.  These cards may not be shown to other players; treat them
+    as you would treat your hand in a game of five-card draw.  You must at
+    all times have the correct number of cards in your viewing hand.  If you
+    have too few, draw from your stash until you have the correct number
+    (unless, of course, your stash has no cards left).  If you have too many,
+    put cards of your choice from your viewing hand onto the discard pile
+    until you have the correct number.  You may NOT voluntarily discard when
+    you don't have to.  The correct number of cards for your viewing hand is
+    seven, unless special card rules change it.
+    </para>
+
+    <para>
+    The splitter has the first play.  He puts a card from his viewing hand
+    onto his table.  This is called playing a card.  The special card rule
+    for this card is invoked.  Remember to draw from your stash after
+    playing a card in order to keep the correct number of cards in your
+    viewing hand.  The splitter continues playing cards from his hand onto
+    his table, invoking each special card rule as he does so, until either
+    he can no longer legally do so or he has the maximum number of cards on
+    his table.  At this time, his turn is over.  Unless it has been altered
+    by special card rules, the maximum number of cards on a player's table
+    is five (5).  Play then passes to the next player in the direction of
+    play.  Unless it has been altered by special card rules, the direction
+    of play is to the left.  Transfer of turn from one player to the next is
+    a little tricky.  Here's how it works:
+    </para>
+
+    <para>
+    A player, whom we shall call Player A, is nearing the end of his turn.
+    Player B is sitting next to Player A such that he is next in the direction
+    of play.  Player A has 1 less card on the table than his maximum number
+    of cards on the table.  He plays a card.  His turn is over and it is
+    Player B's turn.  <emphasis>However</emphasis>, if Player A just played
+    a 6, 5, or a card which causes him to have cards-to-be-played, he must
+    resolve these things <emphasis>immediately</emphasis>, before Player B
+    can actually take any actions.  The point in Player B's turn known as
+    the "beginning" of his turn does not occur until such effects are resolved,
+    but it <emphasis>is</emphasis> Player B's turn.  If, for some reason,
+    Player B's turn is ended before it can begin, none of the effects that
+    normally occur at the beginning of a turn occur.
+    </para>
+
+    <para>
+    At the beginning of a player's turn, the following things occur:
+    </para>
+
+    <orderedlist>
+	<listitem><para>
+	Any Chapter Two effects that are triggered by the beginning of a turn
+	occur.  The player who's turn is beginning may choose the order in which
+	these effects occur.
+	</para></listitem>
+
+	<listitem><para>
+	A check is made to see if the player wins the hand.
+	</para></listitem>
+
+	<listitem><para>
+	The player chooses whether to keep or scrap his hand (see below).
+	</para></listitem>
+
+	<listitem><para>
+	If the player has any sideways cards in his stash, he turns the topmost
+	one of them back to the normal (non-sideways) position and his turn
+	ends.
+	</para></listitem>
+    </orderedlist>
+
+    <para>
+    If Player A's turn is over but the beginning of Player B's turn has not
+    been reached, then Player A can "regain" the turn by reducing his number
+    of cards on the table to less than the maximum number of cards on his
+    table.  His turn does not begin again; he doesn't get to choose whether
+    to scrap his hand again, nor does a check to see if he wins occur.  He
+    does get to continue playing cards until something ends his turn again
+    (such as having the maximum number of cards on his table again).  When
+    his turn does end again, it is treated just like the end of any turn, and
+    it is Player B's turn.  <emphasis>Pay close attention to this fact: if
+    Player A skips Player B and then regains the turn, then Player A has
+    wasted an attempt to skip Player B, because when Player A ends his turn
+    again, Player B's turn follows.</emphasis>
+    </para>
+
+    <para>
+    If, at the beginning of his turn, a player has cards on his table, he has
+    the following options:
+    </para>
+
+    <itemizedlist>
+	<listitem><para>
+	He may "scrap" his hand.  To "scrap" one's hand means to put all cards
+	from one's table into the pot.  His turn continues as normal.
+	</para></listitem>
+
+	<listitem><para>
+	He may keep his hand.  If he has a number of cards on his table equal to
+	or greater than the maximum number of cards on the table, then his turn
+	is over.  If not, then he may continue playing as normal, building his
+	hand on the cards he has kept.
+	</para></listitem>
+    </itemizedlist>
+</section>
+
+<section id="handdeclaration">
+<title>Hand Declaration</title>
+    <para>
+    Players may get more than five (5) cards on their tables.  When this
+    happens, it is important to declare what your five-card poker hand is.  A
+    player may change his five-card poker hand at the end of his turn or when,
+    during another player's turn, cards are added to or removed from his
+    table.  These five cards should be placed in such a way that other players
+    can tell that they are the player's five-card poker hand.
+    <emphasis>Only the declared five-card poker hand counts in determining the
+    winner of the game.</emphasis>
+    If at any time failure to declare makes a player's five-card poker hand
+    ambiguous (i.e., a card from his hand was destroyed and he fails to make
+    his new declaration clear), then that player's hand is ranked as crap.
+    </para>
+</section>
+
+<section id="winning">
+<title>Winning</title>
+    <para>
+    A player wins the current hand if, at the beginning of his turn, he has
+    the highest five-card poker hand of all players.  He takes the pot and
+    adds it to his stash.  The discard pile becomes the pot and a new hand is
+    begun.  If, by some strange occurrence, all players lose the hand before
+    anyone wins (i.e., all are removed from the hand by 10&clubs;s), then the
+    discard
+    pile is added to the pot.  Nobody takes the pot, the hand is a tie, and a
+    new hand is begun, with the player with the smallest stash playing first.
+    This is really very unlikely.
+    </para>
+
+    <para>
+    If, at the end of any hand, only two players remain in the game, then the
+    one with the larger stash wins the game.
+    </para>
+</section>
+
+<section id="handranking">
+<title>Hand Ranking</title>
+    <para>
+    The hands rank, from low to high, as follows:
+    </para>
+
+    <itemizedlist>
+	<listitem><para>
+	Crap - any player may declare his hand as crap if he wants to
+	</para></listitem>
+
+	<listitem><para>
+	Nothing - no cards on the table
+	</para></listitem>
+
+	<listitem><para>
+	High Card - Joker (valued as a 1),2,3,4,5,6,7,8,9,10,J,Q,K,A
+	</para></listitem>
+
+	<listitem><para>
+	Pair
+	</para></listitem>
+
+	<listitem><para>
+	Two Pair
+	</para></listitem>
+
+	<listitem><para>
+	Three of a kind
+	</para></listitem>
+
+	<listitem><para>
+	Full house
+	</para></listitem>
+
+	<listitem><para>
+	Straight
+	</para></listitem>
+
+	<listitem><para>
+	Four of a kind
+	</para></listitem>
+
+	<listitem><para>
+	Five of a kind
+	</para></listitem>
+    </itemizedlist>
+
+    <para>
+    Straights cannot wrap from A to 1 (e.g., Q-K-A-1-2 is not a straight -
+    though a Joker will count as a 1).
+    </para>
+    
+    <para>
+    A monochromatic (all cards of the
+    same color) hand beats any non-monochromatic hand.  The regular hand
+    progression applies within monochromatic hands (e.g., a monochromatic
+    pair beats a monochromatic high card).
+    </para>
+
+    <para>
+    A flush hand (all cards of the same suit) beats any non-flush hand.  The
+    regular hand progression applies within flush hands.  Note that any flush
+    hand is also monochromatic.
+    </para>
+
+    <para>
+    If two hands are exactly the same, they tie.  If there is a tie for the
+    highest hand on the table, then neither player has the highest hand, so
+    neither would win when his turn begins.  For example, A and B both have
+    5-of-a-kind A (Aces) flush with two wilds.  A's turn begins.  He doesn't
+    have the single highest hand on the table, so he doesn't yet win the hand.
+    </para>
+
+    <para>
+    A player's initial hand (before his first turn) is Nothing.
+    </para>
+</section>
+
+<section id="resigning">
+<title>Resigning</title>
+    <para>
+    A player may resign from the hand at any time.  He no longer pays fees for
+    card effects during that hand.  If he resigns after a card that requires
+    some type of fee is played (a 7 or a 5, for example) but before he pays
+    for it, he doesn't have to pay for it.  He puts all of the cards on his
+    table into the pot and his viewing hand into his stash.  He may resume
+    playing in the next hand.  As long as he is in the game, he is still
+    subject to fines for any misdoings.
+    </para>
+
+    <para>
+    If a player resigns from the game, he puts his viewing hand in his stash
+    and his table in the pot.  He then adds his stash to the discard.
+    </para>
+</section>
+
+<section id="losing">
+<title>Losing the Game</title>
+    <para>
+    If you have no cards in your stash and are forced to pay a fee or fine,
+    you must "cannibalize" your other cards.  First, you must pay from your
+    viewing hand.  If you run out of cards in your viewing hand, you must
+    pay from your table.  If you run out of cards on your table, you must
+    pay from your cards-to-be-played.  In all cases, you choose which cards
+    you use to pay the fee or fine.
+    </para>
+
+    <para>
+    If you completely run out of cards and still must pay a fee or fine, you
+    have lost.  If you are completely out of cards at the end of any hand,
+    you have lost.
+    </para>
+</section>
+
+<section id="cardstobeplayed">
+<title>Cards-to-be-Played</title>
+    <para>
+    In some situations, cards will be put in your cards-to-be-played.  These
+    cards <emphasis>must be played immediately</emphasis> even if it is
+    another player's turn.  If multiple sets of cards to be played exist,
+    then the sets are resolved in LIFO order (last in, first out; the last set
+    created is the first set resolved).  This has no effect on whose turn it
+    is.
+    </para>
+
+    <para>
+    When you gain cards-to-be-played, one of two things happens: either you
+    create a new set of cards-to-be-played or you add them to your most
+    recent set of cards-to-be-played.  If you already have at least one set
+    of cards-to-be-played, and if the most recent of your sets of
+    cards-to-be-played is the most recent set that any player has, then you
+    add the new cards to that set.  Otherwise, you create a new set.
+    </para>
+
+    <para>
+    You may play your cards-to-be-played from your most recent set in any
+    order.  They may not be played as card pairs.  If you play a 6, then the
+    card that you use to shaft another player must be from your viewing hand,
+    <emphasis>not</emphasis> your cards-to-be-played.  You may, however,
+    use cards-to-be-played from your most recent set or cards from your
+    viewing hand in a 5-tile (see Chapter 2 rules on the 5).  Except to
+    resolve a 6 or a 5, you may not use cards from your viewing hand until
+    you have used all your cards-to-be-played.
+    </para>
+
+    <para>
+    At any time when a player is playing cards-to-be-played, has at least
+    7 cards-to-be-played, and has just finished resolving a card effect, the
+    player (not counting the player playing cards-to-be-played) with the
+    highest 5-card poker hand may "halt" the cards-to-be-played.  If the
+    highest 5-card poker hand (not counting the player playing
+    cards-to-be-played) is a tie, then any player involved in the tie may
+    halt the cards-to-be-played.
+    </para>
+
+    <para>
+    If a player halts the cards-to-be-played, then he must first put his
+    5-card poker hand into the pot.  Then, all cards in the current set of
+    cards-to-be-played (the set that is currently being played) that allow
+    the player playing them to play more cards or to put more cards into
+    his cards-to-be-played are put directly onto that player's table without
+    any of their immediate effects occurring.
+    </para>
+
+    <para>
+    No player with crap may ever halt cards-to-be-played.
+    </para>
+
+    <para>
+    A player may never halt cards-to-be-played that he is playing.
+    </para>
+</section>
+
+<section id="directionofplay">
+<title>Direction of Play</title>
+    <para>
+    The direction of play, at the beginning of the game, is left.  This may be
+    changed as the game progresses.  Using one of the spare 10&clubs; and
+    9&diamonds; from the deck (the cards you removed from the 52-card poker
+    decks, see section 1.2), the direction of play should be marked.  Place
+    the two cards on the table between the discard and the pot.
+    <emphasis>Be careful</emphasis> not to mistake these cards for the
+    discard or the pot.  When the direction of play is left, the 9&diamonds;
+    should be showing; when the direction of play is right, the 10&clubs;
+    should be showing.  In this way, it is possible to keep track of the
+    direction of play at all times.
+    </para>
+</section>
+
+<section id="guidelines">
+<title>Guidelines</title>
+    <para>
+    The following guidelines have been developed to keep the game fun.  The
+    names Player A, Player B, Player C, etc. refer to distinct players (in
+    no particular seating order).
+    </para>
+
+    <itemizedlist>
+	<listitem><para>
+	No teams.  Don't gang up on one player.
+	</para></listitem>
+
+	<listitem><para>
+	Unless Player A has a reason to be mad at Player B (e.g., Player B
+	caused Player C to win the last hand), Player A should not repeatedly
+	use his cards' powers to harm Player B.  There is no need to start
+	a war, as it tends to cause the game to degenerate and the player(s)
+	who aren't taking sides tend to get an advantage.
+	</para></listitem>
+
+	<listitem><para>
+	Viewing hands are secret.  You may neither request nor give
+	information about viewing hands.
+	</para></listitem>
+
+	<listitem><para>
+	No player may look through the pot, the discard, or any player's
+	stash (all terms explained later).  <emphasis>However</emphasis>, if
+	a card is placed in the wrong pile, it must be moved to the correct
+	one unless the group has agreed to fine the offending player instead.
+	</para></listitem>
+
+	<listitem><para>
+	In situations that require a vote, each player gets one and only one
+	vote.  This applies even to players who have folded from the hand or
+	the game.  A vote is required in any situation that the &corbp; cannot
+	resolve.
+	</para></listitem>
+
+	<listitem><para>
+	If a situation is impossible to resolve the vote comes to a tie, then
+	the game game is restarted; all players give all cards to the
+	splitter who re-splits.
+	</para></listitem>
+
+	<listitem><para>
+	No money can be in any way involved in the game except for the
+	purchase of supplies needed for the game (such as cards, snacks, etc.).
+	In fact, it is advised that no form of wager at all should be made.
+	Not only does betting make the game less fun, but it is foolish;
+	nobody can predict the results of a &bp; game, regardless of what cards
+	are in that person's hand.
+	</para></listitem>
+
+	<listitem><para>
+	All cards on any player's table are public information.  All players
+	have the right to know what cards are on each player's table.
+	</para></listitem>
+
+	<listitem><para>
+	The group can vote to apply fines to players for any misdoings.  No
+	BS about freedom of speech if the group fines you for saying something
+	disgusting; it's just a game, not a federal action.  Fines can
+	<emphasis>not</emphasis> be retroactive.  If a player does something
+	that is obnoxious then that players can vote to fine him
+	<emphasis>if he does it again</emphasis> but he cannot be fined for
+	<emphasis>having done it</emphasis> unless it had already been
+	declared grounds for a fine.  The players may vote to have the fine
+	paid to the pot, all players, the player(s) affected, or whatever.
+	</para></listitem>
+    </itemizedlist>
+</section>
+</chapter>

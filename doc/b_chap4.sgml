@@ -1,0 +1,26 @@
+<chapter id="legislativerules">
+<title>Legislative Rules</title>
+    <para>
+    The above rules are the complete rules as used by the &nbpi;.  You
+    may create your own rules based on these rules.  If so, you must use the
+    following form on your title page:
+    </para>
+
+    <para>
+    <literallayout>
+    The Rules for Bureaucracy Poker
+    from
+    &lt;Your Name or Your Group's Name&gt;
+    based on the rules from
+    &nbpi;
+    </literallayout>
+    </para>
+
+    <para>
+    <indexterm id="test" class="startofrange">
+    <primary>sample</primary>
+    <secondary>test</secondary>
+    </indexterm>
+    Proposed rules changes may be e-mailed to mea@umr.edu.
+    </para>
+</chapter>

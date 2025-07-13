@@ -1,0 +1,64 @@
+<chapter id="f-cardrules">
+<title>Special Card Rules</title>
+
+<section id="f-typesofeffects">
+<title>Types of Effects</title>
+    <para>
+    Immediate Effects: Any effect that doesn't specify that it is one of the
+    other types of effects is an immediate effect.  Such an effect is resolved
+    as soon as the card that causes it is played.  If the effect cannot be
+    resolved immediately it is lost completely; it cannot be called upon
+    later.
+    </para>
+</section>
+
+<section id="f-joker">
+<title>Playing a Joker</title>
+    <para>
+    You may choose one card from your f_hand and turn it up into the f_pot.  If
+    you do so, you must draw a card from your stash into your f_hand.
+    </para>
+</section>
+
+<section id="f-five">
+<title>Playing a 5</title>
+    <para>
+    Each player in turn (starting with the player who played the 5 and
+    continuing around the circle in the direction of play) must turn up one card
+    from his stash into the f_pot.
+    </para>
+</section>
+
+<section id="f-nine">
+<title>Playing a 9</title>
+    <itemizedlist>
+	<listitem><para>
+	9&diamonds; - You lose.  Put the 9&diamonds; in your stash.
+	</para></listitem>
+    </itemizedlist>
+</section>
+
+<section id="f-ten">
+<title>Playing a 10</title>
+    <itemizedlist>
+	<listitem><para>
+	10&clubs; - You win.  The 10&clubs; goes into the pot for the game of
+	Bureaucracy Poker from which this game was started (not into the f_pot).
+	</para></listitem>
+    </itemizedlist>
+</section>
+
+<section id="f-king">
+<title>Playing a K</title>
+    <itemizedlist>
+	<listitem><para>
+	K&clubs; - Next player in the direction of play puts his f_hand into
+	the f_pot and draws a new one.
+	</para></listitem>
+	<listitem><para>
+	K&spades; - Previous player in the direction of play puts his f_hand
+	into the f_pot and draws a new one.
+	</para></listitem>
+    </itemizedlist>
+</section>
+</chapter>
