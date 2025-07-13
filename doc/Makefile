@@ -24,5 +24,5 @@ $(DOC): $(SRC)
 	docbook2html -d "$$(pwd)/$(DSSSL)#html" -o $(DOC) $(MAIN)
 
 clean:
-	-$(RM) *.log *.dvi *.aux *.tex *.out
-	-$(RM) -r $(DOC) $(DOC).ps $(DOC).pdf
+	-$(RM) -f *.log *.dvi *.aux *.tex *.out
+	-$(RM) -rf $(DOC) $(DOC).ps $(DOC).pdf
