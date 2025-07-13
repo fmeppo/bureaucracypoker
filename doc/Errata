@@ -11,5 +11,5 @@ Work on f_poker
 Better protection for Black- and White-hole pairs?
 (passed?) Minimum viewing-hand size == 1
 What is the state of a card that has been passed due to an in-effect card before
-    ir reverts to its true value?
+    it reverts to its true value?
 Prevent nasty side-effects of cannibalizing
