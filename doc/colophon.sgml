@@ -14,9 +14,16 @@ began a lengthy transcription and updating process.
 </para>
 
 <para>
-This version of the rules was produced by Mike Shuey, using DocBook DSSSL
-Stylesheets, and was originally prepared with DocBook XML and SGML tools
-from Debian Linux.  This version is currently archived with CVS and is now
-periodically rendered using DocBook XML and SGML tools from Ubuntu Linux.
+By December 2007, Mike Shuey had ported the roles to DocBook DSSSL
+Stylesheets.  These were originally prepared with DocBook XML and SGML
+tools from Debian Linux, and were archived with CVS.  This remained the
+canonical rules for some time.
+</para>
+
+<para>
+In the summer of 2025 the DocBook rendering of the rules were migrated to
+git, to be served from github.com.  The canonical rules can now be found
+at https://github.com/fmeppo/bureaucracypoker and are periodically
+rendered using DocBook XML and SGML tools from Ubuntu Linux.
 </para>
 </colophon>
