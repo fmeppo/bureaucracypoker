@@ -4,10 +4,10 @@
 <!ENTITY bp "Bureaucracy Poker">
 <!ENTITY nbpi "National Bureaucracy Poker Institute">
 
-<!ENTITY clubs "C">
-<!ENTITY diamonds "D">
-<!ENTITY spades "S">
-<!ENTITY hearts "H">
+<!ENTITY clubs "&#9827;">
+<!ENTITY diamonds "&#9830;">
+<!ENTITY spades "&#9824;">
+<!ENTITY hearts "&#9829;">
 
 <!ENTITY cont "((C))">
 <!ENTITY discard "((D))">
