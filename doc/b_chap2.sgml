@@ -123,6 +123,10 @@
 <section id="effects">
 <title>Types of Effects</title>
     <section id="immediate">
+    <indexterm type="bpoker">
+        <primary>Effects</primary>
+        <secondary>Immediate</secondary>
+    </indexterm>
     <title>Immediate Effects</title>
 	<para>
 	Any effect that doesn't specify that it is one of the other types of
@@ -135,6 +139,10 @@
     </section>
 
     <section id="continuous">
+    <indexterm type="bpoker">
+        <primary>Effects</primary>
+        <secondary>Continuous</secondary>
+    </indexterm>
     <title>Continuous Effects</title>
 	<para>
 	An effect preceded by a &cont; is a continuous effect.  Such an
@@ -145,6 +153,10 @@
     </section>
 
     <section id="trggered">
+    <indexterm type="bpoker">
+        <primary>Effects</primary>
+        <secondary>Triggered</secondary>
+    </indexterm>
     <title>Triggered Effects</title>
 	<para>
 	An effect preceded by a
@@ -158,6 +170,10 @@
     </section>
 
     <section id="discard">
+    <indexterm type="bpoker">
+        <primary>Effects</primary>
+        <secondary>Discard</secondary>
+    </indexterm>
     <title>Discard Effects</title>
 	<para>
 	An effect preceded by &discard; is a discard effect.  Such an effect
@@ -173,6 +189,10 @@
     </section>
 
     <section id="usage">
+    <indexterm type="bpoker">
+        <primary>Effects</primary>
+        <secondary>Using Effects</secondary>
+    </indexterm>
     <title>Using Effects</title>
 	<para>
 	Some cards have effects on other cards (e.g., the 2&spades;).  Unless

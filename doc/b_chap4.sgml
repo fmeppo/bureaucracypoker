@@ -6,6 +6,10 @@
     following form on your title page:
     </para>
 
+    <indexterm type="bpoker" class="startofrange">
+    <primary>Rules</primary>
+    <secondary>changes</secondary>
+    </indexterm>
     <para>
     <literallayout>
     The Rules for Bureaucracy Poker
@@ -17,10 +21,7 @@
     </para>
 
     <para>
-    <indexterm id="test" class="startofrange">
-    <primary>sample</primary>
-    <secondary>test</secondary>
-    </indexterm>
     Proposed rules changes may be e-mailed to mea@umr.edu.
     </para>
+    <indexterm type="bpoker" class="endofrange"/>
 </chapter>
