@@ -33,6 +33,13 @@
 
 <set>
     <title>The Full and Complete Set of Rules for All Bureaucracy Poker Games</title>
+    <subtitle>
+        <inlinemediaobject>
+            <imageobject>
+                <imagedata fileref="images/cover.jpg" width="90%" scalefit="1" />
+            </imageobject>
+        </inlinemediaobject>
+    </subtitle>
 
     <setinfo>
         <corpauthor>The National Bureaucracy Poker Institute</corpauthor>
