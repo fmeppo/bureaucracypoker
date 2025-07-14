@@ -17,7 +17,7 @@
 	resolving all effects from 5s, 6s, and cards-to-be-played (unless
 	Player A regains the turn or Player B is skipped).
 	</para>
-	<glossseealso otherterm="cards-to-be-played">
+	<glossseealso otherterm="cards-to-be-played"/>
     </glossdef>
     </glossentry>
 
@@ -31,8 +31,8 @@
 	the tile are ignored.  Continuous effects of these cards take effect
 	at this time, though (unless, of course, the cards become no-effect).
 	</para>
-	<glossseealso otherterm="tile">
-	<glossseealso otherterm="no-effect-cards">
+	<glossseealso otherterm="tile"/>
+	<glossseealso otherterm="no-effect-cards"/>
     </glossdef>
     </glossentry>
 </glossdiv>
@@ -46,7 +46,7 @@
 	effects of these cards are considered at all times unless the cards
 	are no-effect.
 	</para>
-	<glossseealso otherterm="no-effect-cards">
+	<glossseealso otherterm="no-effect-cards"/>
     </glossdef>
     </glossentry>
 
@@ -73,7 +73,7 @@
 	card causing it is in play and is not a no-effect card.  The effects of
 	a 4 are continuous effects, for example.
 	</para>
-	<glossseealso otherterm="no-effect-cards">
+	<glossseealso otherterm="no-effect-cards"/>
     </glossdef>
     </glossentry>
 
@@ -87,8 +87,8 @@
 	Immediate effects of the card are ignored, although unless the card
 	is no-effect its continuous effects do take effect.
 	</para>
-	<glossseealso otherterm="no-effect-cards">
-	<glossseealso otherterm="continuous-effect">
+	<glossseealso otherterm="no-effect-cards"/>
+	<glossseealso otherterm="continuous-effect"/>
     </glossdef>
     </glossentry>
 
@@ -207,7 +207,7 @@
 	<para>
 	A hand with five cards of the same suit.  This beats any non-flush hand.
 	</para>
-	<glossseealso otherterm="five-card-poker-hand">
+	<glossseealso otherterm="five-card-poker-hand"/>
     </glossdef>
     </glossentry>
 
@@ -252,8 +252,8 @@
 	cards are then put onto said player's table with none of their
 	immediate effects occurring.
 	</para>
-	<glossseealso otherterm="cards-to-be-played">
-	<glossseealso otherterm="five-card-poker-hand">
+	<glossseealso otherterm="cards-to-be-played"/>
+	<glossseealso otherterm="five-card-poker-hand"/>
     </glossdef>
     </glossentry>
 
@@ -317,7 +317,7 @@
 	A hand with five cards of the same color.  This always beats a
 	non-monochromatic.  A flush beats a monochromatic, however.
 	</para>
-	<glossseealso otherterm="flush">
+	<glossseealso otherterm="flush"/>
     </glossdef>
     </glossentry>
 </glossdiv>
@@ -378,7 +378,7 @@
 	Wilds, the 10&diamonds;, and tiles are protected.  Many cards can't
 	effect them.
 	</para>
-	<glossseealso otherterm="tile">
+	<glossseealso otherterm="tile"/>
     </glossdef>
     </glossentry>
 </glossdiv>
@@ -390,8 +390,8 @@
 	<para>
 	To put cards on one's table into the pot at the beginning of one's turn.
 	</para>
-	<glossseealso otherterm="pot">
-	<glossseealso otherterm="table">
+	<glossseealso otherterm="pot"/>
+	<glossseealso otherterm="table"/>
     </glossdef>
     </glossentry>
 
@@ -419,8 +419,8 @@
 	<para>
 	The act of dividing the deck into piles for each player's stash.
 	</para>
-	<glossseealso otherterm="deck">
-	<glossseealso otherterm="stash">
+	<glossseealso otherterm="deck"/>
+	<glossseealso otherterm="stash"/>
     </glossdef>
     </glossentry>
 

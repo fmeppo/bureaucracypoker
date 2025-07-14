@@ -11,18 +11,20 @@ F_SECTS=f_chap1.sgml f_chap2.sgml
 RM=rm
 SECTS=$(TOP_SECTS) $(B_SECTS) $(F_SECTS)
 SRC=$(MAIN) $(SECTS) $(DSSSL)
+# Note that the stylesheet here is super Debian-specific.
+STYLESHEET_TARGET="/usr/share/xml/docbook/stylesheet/docbook-xsl/fo/docbook.xsl"
 
-all: $(DOC) $(DOC).pdf $(DOC).ps
+all: $(DOC).fo $(DOC).pdf
 
-$(DOC).ps: $(SRC)
-	docbook2ps -d "$(DSSSL)#print" $(MAIN)
+$(DOC).fo: $(SRC)
+	xsltproc -o $(DOC).fo $(STYLESHEET_TARGET) $(MAIN)
 
 $(DOC).pdf: $(SRC)
-	docbook2pdf -d "$(DSSSL)#print" $(MAIN)
+	fop -fo $(DOC).fo -pdf $(DOC).pdf
 
-$(DOC): $(SRC)
-	docbook2html -d "$$(pwd)/$(DSSSL)#html" -o $(DOC) $(MAIN)
+#$(DOC): $(SRC)
+#	docbook2html -d "$$(pwd)/$(DSSSL)#html" -o $(DOC) $(MAIN)
 
 clean:
 	-$(RM) -f *.log *.dvi *.aux *.tex *.out
-	-$(RM) -rf $(DOC) $(DOC).ps $(DOC).pdf
+	-$(RM) -rf $(DOC) $(DOC).ps $(DOC).pdf $(DOC).fo
