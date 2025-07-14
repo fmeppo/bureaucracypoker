@@ -22,7 +22,7 @@
     </para>
 
     <para>
-    We apologize for the K&diamonds;.
+    We apologize for the K &diamonds;.
     </para>
 </section>
 
@@ -517,7 +517,7 @@
     <title>Tunnel</title>
 	<para>
 	&discard;  You may use this effect immediately after any opponent
-	tries to force a card other than the K&clubs; onto your table.  Put
+	tries to force a card other than the K &clubs; onto your table.  Put
 	your viewing hand in the pot.  The card that was being forced on
 	you does not come into play on your table.  You choose an opponent
 	other than the one who tried to force the card on you and force the
@@ -681,7 +681,7 @@
 		<term>"Magic"</term>
 		    <listitem> <para>
 		    &discard;  You may use this effect whenever a card other
-		    then the K&clubs; is being played on your table.  That card
+		    then the K &clubs; is being played on your table.  That card
 		    enters your table as a no-effect (with none of its effects
 		    occurring).  You may also use this effect when an opponent
 		    plays a card that has an effect on your cards, turn, or
@@ -769,14 +769,14 @@
 
     <variablelist>
 	<varlistentry>
-	<term>J&hearts;, J&spades;, J&diamonds;</term>
+	<term>J &hearts;, J &spades;, J &diamonds;</term>
 	    <listitem><para>
 	    &cont;  You must pay an extra card on any fee.
 	    </para></listitem>
 	</varlistentry>
 
 	<varlistentry>
-	<term>J&clubs;</term>
+	<term>J &clubs;</term>
 	    <listitem><para>
 	    &cont;  You must pay an extra 2 cards on any fee.
 	    </para></listitem>
@@ -788,33 +788,33 @@
 <title>Playing a Q</title>
     <variablelist>
 	<varlistentry>
-	<term>Q&diamonds;</term>
+	<term>Q &diamonds;</term>
 	    <listitem><para>
-	    The Q&diamonds; goes to the table of the player sitting next to you
+	    The Q &diamonds; goes to the table of the player sitting next to you
 	    in the direction of play.  That player doesn't play this card, and
 	    the card is not considered forced on that player.  You may look
-	    at the viewing hand of the player who receives the Q&diamonds;.
+	    at the viewing hand of the player who receives the Q &diamonds;.
 	    </para></listitem>
 	</varlistentry>
 
 	<varlistentry>
-	<term>Q&hearts;</term>
+	<term>Q &hearts;</term>
 	    <listitem><para>
-	    Same as the Q&diamonds;, except it goes to the player sitting
+	    Same as the Q &diamonds;, except it goes to the player sitting
 	    next to you in the direction opposite the direction of play.
 	    </para></listitem>
 	</varlistentry>
 
 	<varlistentry>
-	<term>Q&clubs;</term>
+	<term>Q &clubs;</term>
 	    <listitem><para>
-	    Same as the Q&diamonds;, except you can't look at the player's
+	    Same as the Q &diamonds;, except you can't look at the player's
 	    viewing hand.  Instead, you must also pass another card from
-	    your table (not your cards-to-be-played) with the Q&clubs; if
+	    your table (not your cards-to-be-played) with the Q &clubs; if
 	    possible.  This may include protected cards but not no-effect
 	    cards.  That card is treated as if the person receiving it had
-	    just played it.  You may not pass another Q&clubs; or a
-	    Q&spades; with the Q&clubs;.  You may pay a fee of 2 to the
+	    just played it.  You may not pass another Q &clubs; or a
+	    Q &spades; with the Q &clubs;.  You may pay a fee of 2 to the
 	    pot in order to pass 2 cards instead of one.  In this case, the
 	    2 cards must be a valid card pair and are played as a pair by
 	    the person receiving them.
@@ -822,9 +822,9 @@
 	</varlistentry>
 
 	<varlistentry>
-	<term>Q&spades;</term>
+	<term>Q &spades;</term>
 	    <listitem><para>
-	    Same as the Q&clubs;, except that you pass the cards in the
+	    Same as the Q &clubs;, except that you pass the cards in the
 	    direction opposite the direction of play.
 	    </para></listitem>
 	</varlistentry>
@@ -835,7 +835,7 @@
 <title>Playing a K</title>
     <variablelist>
 	<varlistentry>
-	<term>K&hearts;</term>
+	<term>K &hearts;</term>
 	    <listitem><para>
 	    You must put one card from your table into the pot.  Each other
 	    player must discard a card from his table (even protected cards
@@ -848,25 +848,25 @@
 	</varlistentry>
 
 	<varlistentry>
-	<term>K&diamonds; ("The Somewhat-Less-Than-Entirely-Concise
+	<term>K &diamonds; ("The Somewhat-Less-Than-Entirely-Concise
 	King Rule")</term>
 	    <listitem>
 	    <para>
 	    The rule that is the rule invoked by the playing of the card
-	    that is the K&diamonds; is as follows: The player who is the
-	    player playing the card that is the K&diamonds; must place the
-	    K&diamonds; into the pot.  He (the player who is the player
-	    playing the card that is the K&diamonds;) must, if possible, then
+	    that is the K &diamonds; is as follows: The player who is the
+	    player playing the card that is the K &diamonds; must place the
+	    K &diamonds; into the pot.  He (the player who is the player
+	    playing the card that is the K &diamonds;) must, if possible, then
 	    choose one card from each table that is the table of a player
-	    other than the player playing the card that is the K&diamonds;,
+	    other than the player playing the card that is the K &diamonds;,
 	    which is then placed into the pile of cards that is the discard
-	    pile.  The player who is the player playing the K&diamonds; may
+	    pile.  The player who is the player playing the K &diamonds; may
 	    not, in such manner, choose any card from an opponent's table if
 	    that card be protected or no-effect.
 	    </para>
 
 	    <para>
-	    TRANSLATION: You must put the K&diamonds; into the pot.  You must
+	    TRANSLATION: You must put the K &diamonds; into the pot.  You must
 	    then choose one card that is neither protected nor no-effect from
 	    each opponents' table and place it in the discard.
 	    </para>
@@ -874,10 +874,10 @@
 	</varlistentry>
 
 	<varlistentry>
-	<term>K&spades;</term>
+	<term>K &spades;</term>
 	    <listitem><para>
 	    You must discard your current five-card poker hand.  If the
-	    K&spades; was forced on you by another player, and if that player
+	    K &spades; was forced on you by another player, and if that player
 	    sees a higher hand that you have not declared, he may force you to
 	    form it and discard it instead of the one you declared.  Every
 	    card in the five-card poker hand gets discarded, even if it is
@@ -887,7 +887,7 @@
 	</varlistentry>
 
 	<varlistentry>
-	<term>K&clubs; ("Bomb")</term>
+	<term>K &clubs; ("Bomb")</term>
 	    <listitem><para>
 	    Every card on your table (including protected cards) is put in the
 	    pot except no-effect cards.
@@ -900,7 +900,7 @@
 <title>Playing an A</title>
     <variablelist>
 	<varlistentry>
-	<term>A&diamonds;, A&hearts;, A&spades;</term>
+	<term>A &diamonds;, A &hearts;, A &spades;</term>
 	    <listitem><para>
 	    If it is your turn, then your turn is over.  You may not regain
 	    the turn until after the next time your turn begins.
@@ -908,7 +908,7 @@
 	</varlistentry>
 
 	<varlistentry>
-	<term>A&clubs;</term>
+	<term>A &clubs;</term>
 	    <listitem><para>
 	    If it is your turn, your turn is over.  If you have
 	    cards-to-be-played, they are placed on your table with no
@@ -1011,7 +1011,7 @@
 	    the 5s) retains its face-value suit for evaluating your five-card
 	    poker hand, but it has the same suit "in effect" as the two 5s,
 	    so that a 5&hearts; + 5&hearts; + 2&diamonds; gives you a
-	    2&hearts;-in-effect.  If the resulting card leaves your hand,
+	    2&hearts; -in-effect.  If the resulting card leaves your hand,
 	    break the tile.
 	    </para></listitem>
 	</varlistentry>
@@ -1040,8 +1040,8 @@
 	    </para>
 
 	    <para>
-	    &cont;  K&spades;, K&clubs;, K&hearts;, and K&diamonds; cannot
-	    affect this tile.  K&clubs; + K&clubs; does affect it, however.
+	    &cont;  K &spades;, K &clubs;, K &hearts;, and K &diamonds; cannot
+	    affect this tile.  K &clubs; + K &clubs; does affect it, however.
 	    </para>
 
 	    <para>
@@ -1178,7 +1178,7 @@
 	</varlistentry>
 
 	<varlistentry>
-	<term>K&clubs; + K&clubs; ("Atomic Bomb")</term>
+	<term>K &clubs; + K &clubs; ("Atomic Bomb")</term>
 	    <listitem><para>
 	    ALL cards on all tables (even protected and no-effect cards) and
 	    the discard pile are put into the pot.  10&diamonds; "Magic"
@@ -1232,8 +1232,8 @@
 	    </para>
 
 	    <para>
-	    If a K&clubs; is to be played upon you and you want to reflect it,
-	    you must use 2 full reflector pairs to do so (two 10&diamonds;s and
+	    If a K &clubs; is to be played upon you and you want to reflect it,
+	    you must use 2 full reflector pairs to do so (two 10&diamonds; and
 	    two 6s).
 	    </para>
             </listitem>
