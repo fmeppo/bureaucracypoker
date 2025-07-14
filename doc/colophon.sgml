@@ -24,6 +24,8 @@ canonical rules for some time.
 In the summer of 2025 the DocBook rendering of the rules were migrated to
 git, to be served from github.com.  The canonical rules can now be found
 at https://github.com/fmeppo/bureaucracypoker and are periodically
-rendered using DocBook XML and SGML tools from Ubuntu Linux.
+rendered using DocBook XML and SGML tools from Ubuntu Linux.  Specific
+processing details can be found in the Makefile included in the github
+repository.
 </para>
 </colophon>
