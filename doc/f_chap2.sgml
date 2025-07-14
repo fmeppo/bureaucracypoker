@@ -52,11 +52,11 @@
 <title>Playing a K</title>
     <itemizedlist>
 	<listitem><para>
-	K&clubs; - Next player in the direction of play puts his f_hand into
+	K &clubs; - Next player in the direction of play puts his f_hand into
 	the f_pot and draws a new one.
 	</para></listitem>
 	<listitem><para>
-	K&spades; - Previous player in the direction of play puts his f_hand
+	K &spades; - Previous player in the direction of play puts his f_hand
 	into the f_pot and draws a new one.
 	</para></listitem>
     </itemizedlist>
