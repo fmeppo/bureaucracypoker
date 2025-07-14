@@ -2,6 +2,9 @@
 <title>General Rules</title>
 
 <section id="history">
+<indexterm type="bpoker">
+    <primary>History</primary>
+</indexterm>
 <title>History</title>
     <para>
     Bureaucracy Poker was invented and developed in 1994 by Mark "Durak"
@@ -23,6 +26,9 @@
 </section>
 
 <section id="materials">
+<indexterm type="bpoker">
+    <primary>Materials</primary>
+</indexterm>
 <title>Materials</title>
     <para>
     This is the one and only aspect of &bp; that was kept simple.  You will need
@@ -46,7 +52,12 @@
 	Use at least two poker decks per player.  Remove all but two of the
 	10&clubs; and all but one of the 9&diamonds;.
 	</para>
-	<para><emphasis>
+	<para>
+        <indexterm type="bpoker">
+            <primary>Materials</primary>
+            <secondary>Pinochle</secondary>
+        </indexterm>
+        <emphasis>
 	WARNING: DO NOT, IN YOUR RUSH TO BUY A BUNCH OF DECKS WITH THE SAME
 	BACK, BUY PINOCHLE DECKS!  THEY ARE TOTALLY USELESS IN A BUREAUCRACY
 	POKER DECK!!!</emphasis>  (Yes, this actually happened to the NBPI
@@ -60,15 +71,27 @@
 <title>Players</title>
 
 <para>
+<indexterm type="bpoker">
+    <primary>Play</primary>
+    <secondary>Players</secondary>
+</indexterm>
 At least three players are required.  Any number of players, three or more,
 can play, but odd numbers are best.
 </para>
 </section>
 
 <section id="beginning">
+<indexterm type="bpoker">
+    <primary>Play</primary>
+    <secondary>Beginning</secondary>
+</indexterm>
 <title>Beginning Play</title>
 
     <para>
+<indexterm type="bpoker">
+    <primary>Splitter</primary>
+    <secondary>Definition</secondary>
+</indexterm>
     One player, called the splitter, takes the well-shuffled &bp; deck and
     divides it into a number of roughly equal-sized stacks equal to the
     number of players.  Each player in turn, starting on the splitter's left
@@ -102,6 +125,10 @@ can play, but odd numbers are best.
     </para>
 
     <para>
+<indexterm type="bpoker">
+    <primary>Splitter</primary>
+    <secondary>First play</secondary>
+</indexterm>
     The splitter has the first play.  He puts a card from his viewing hand
     onto his table.  This is called playing a card.  The special card rule
     for this card is invoked.  Remember to draw from your stash after
